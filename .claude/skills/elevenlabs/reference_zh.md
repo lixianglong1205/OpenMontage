@@ -1,0 +1,167 @@
+# ElevenLabs API 参考
+
+ElevenLabs 音频生成服务的详细 API 文档。
+
+## 身份验证
+
+```python
+from elevenlabs.client import ElevenLabs
+client = ElevenLabs(api_key=os.getenv("ELEVENLABS_API_KEY"))
+```
+
+## 文本转语音（Text-to-Speech）模型
+
+| 模型 ID | 说明 | 语言数 | 延迟 |
+|----------|-------------|-----------|---------|
+| `eleven_flash_v2_5` | 超低延迟流式传输 | 32 | ~75ms |
+| `eleven_multilingual_v2` | 最高质量 | 32 | 标准 |
+| `eleven_turbo_v2_5` | 快速、质量良好 | 32 | 低 |
+| `eleven_v3` | 最佳情感表现（alpha） | 32+ | 较高 |
+
+## 语音设置
+
+| 参数 | 范围 | 默认值 | 效果 |
+|-----------|-------|---------|--------|
+| `stability` | 0.0-1.0 | 0.5 | 越低 = 越富表现力/变化越大 |
+| `similarity_boost` | 0.0-1.0 | 0.75 | 越高 = 越接近原始音色 |
+| `style` | 0.0-1.0 | 0.0 | 风格夸张度（v2 模型） |
+| `speed` | 0.5-2.0 | 1.0 | 播放速度倍数 |
+
+## 输出格式
+
+| 格式代码 | 采样率 | 比特率 | 所需套餐 |
+|-------------|-------------|---------|---------------|
+| `mp3_44100_128` | 44.1kHz | 128kbps | Free（默认） |
+| `mp3_44100_192` | 44.1kHz | 192kbps | Creator+ |
+| `pcm_44100` | 44.1kHz | - | Pro+ |
+| `ulaw_8000` | 8kHz | - | Free（电话语音） |
+
+## 长音频（拼接）
+
+为在多次生成之间保持连贯性：
+
+```python
+result1 = client.text_to_speech.convert_with_timestamps(
+    text="First paragraph...",
+    voice_id="JBFqnCBsd6RMkjVDRZzb",
+    model_id="eleven_multilingual_v2"
+)
+request_id_1 = result1.request_id
+
+result2 = client.text_to_speech.convert(
+    text="Second paragraph...",
+    voice_id="JBFqnCBsd6RMkjVDRZzb",
+    model_id="eleven_multilingual_v2",
+    previous_request_ids=[request_id_1]
+)
+```
+
+## 专业语音克隆（Professional Voice Cloning, PVC）
+
+需要 Creator 套餐及以上。创建微调模型（训练约 3–6 小时）。
+
+**要求：**
+- 最少 30 分钟，最佳 2–3 小时音频
+- 建议使用专业 XLR 麦克风
+- 防喷罩，约 20cm 距离
+- 峰值电平：-6dB 至 -3dB
+- 表演风格保持一致
+
+**工作流：**
+
+```python
+# 1. Create PVC with samples
+pvc = client.voices.create_professional_voice_clone(
+    name="My Pro Voice",
+    files=["recording1.mp3", "recording2.mp3", ...],
+)
+
+# 2. Get verification captcha
+captcha = client.voices.get_pvc_verification_captcha(voice_id=pvc.voice_id)
+# Read the captcha text aloud and record
+
+# 3. Submit verification
+client.voices.verify_pvc(
+    voice_id=pvc.voice_id,
+    recording=open("captcha_reading.mp3", "rb")
+)
+
+# 4. Start training
+client.voices.start_pvc_training(voice_id=pvc.voice_id)
+```
+
+## 音效参数
+
+| 参数 | 类型 | 必填 | 说明 |
+|-----------|------|----------|-------------|
+| `text` | string | 是 | 音效描述 |
+| `duration_seconds` | float | 否 | 1–22 秒（省略则自动） |
+| `prompt_influence` | float | 否 | 0.0–1.0（默认 0.3） |
+
+**计费：** 100 字符/次（自动时长）或 25 字符/秒（固定时长）
+
+**示例提示词：**
+- 环境音："Rain on a tin roof, steady and rhythmic"
+- 动作："Sword being drawn from sheath, metallic ring"
+- 机械："Old car engine struggling to start then roaring to life"
+
+## 音乐参数
+
+| 参数 | 类型 | 必填 | 说明 |
+|-----------|------|----------|-------------|
+| `prompt` | string | 是* | 自然语言音乐描述 |
+| `composition_plan` | object | 是* | 详细作曲结构 |
+| `duration_ms` | int | 否 | 10000–300000（10 秒–5 分钟） |
+| `instrumental` | bool | 否 | 强制纯器乐输出 |
+
+*必须提供 `prompt` 或 `composition_plan` 之一，不能同时提供。
+
+**有效提示词通常包含：**
+1. 流派/风格："indie rock"、"lo-fi hip hop"、"orchestral"
+2. 情绪："uplifting"、"melancholic"、"tense"
+3. 乐器："acoustic guitar"、"synth pads"、"strings"
+4. 速度/能量："slow"、"upbeat"、"driving"
+5. 场景："for a travel vlog"、"podcast intro"
+
+## 各套餐速率限制
+
+| 套餐 | TTS 并发 | SFX 并发 | 音乐并发 |
+|------|---------------|----------------|------------------|
+| Free | 2 | 2 | 1 |
+| Starter | 3 | 3 | 2 |
+| Creator | 5 | 5 | 3 |
+| Pro | 10 | 10 | 5 |
+| Scale | 15 | 15 | 10 |
+
+## 语音管理
+
+```python
+# List voices
+voices = client.voices.get_all()
+for voice in voices.voices:
+    print(f"{voice.name}: {voice.voice_id}")
+
+# Delete voice
+client.voices.delete(voice_id="your_voice_id")
+```
+
+## 错误处理
+
+```python
+from elevenlabs.core.api_error import ApiError
+
+try:
+    audio = client.text_to_speech.convert(...)
+except ApiError as e:
+    if e.status_code == 429:
+        print("Rate limited - wait and retry")
+    elif e.status_code == 401:
+        print("Invalid API key")
+```
+
+| 代码 | 含义 | 处理 |
+|------|---------|--------|
+| 401 | API 密钥无效 | 检查 API 密钥 |
+| 403 | 功能不可用 | 升级套餐 |
+| 422 | 参数无效 | 检查请求体 |
+| 429 | 触发速率限制 | 等待后重试 |
