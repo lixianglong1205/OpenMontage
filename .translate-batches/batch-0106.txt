@@ -1,0 +1,10 @@
+skills/pipelines/hybrid/compose-director.md	skills/pipelines/hybrid/compose-director_zh.md
+skills/pipelines/hybrid/edit-director.md	skills/pipelines/hybrid/edit-director_zh.md
+skills/pipelines/hybrid/executive-producer.md	skills/pipelines/hybrid/executive-producer_zh.md
+skills/pipelines/hybrid/idea-director.md	skills/pipelines/hybrid/idea-director_zh.md
+skills/pipelines/hybrid/publish-director.md	skills/pipelines/hybrid/publish-director_zh.md
+skills/pipelines/hybrid/scene-director.md	skills/pipelines/hybrid/scene-director_zh.md
+skills/pipelines/hybrid/script-director.md	skills/pipelines/hybrid/script-director_zh.md
+skills/pipelines/localization-dub/asset-director.md	skills/pipelines/localization-dub/asset-director_zh.md
+skills/pipelines/localization-dub/compose-director.md	skills/pipelines/localization-dub/compose-director_zh.md
+skills/pipelines/localization-dub/edit-director.md	skills/pipelines/localization-dub/edit-director_zh.md

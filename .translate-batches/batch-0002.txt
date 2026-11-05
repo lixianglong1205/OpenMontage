@@ -1,0 +1,10 @@
+.agents/skills/avatar-video/references/templates.md	.agents/skills/avatar-video/references/templates_zh.md
+.agents/skills/avatar-video/references/text-overlays.md	.agents/skills/avatar-video/references/text-overlays_zh.md
+.agents/skills/avatar-video/references/video-generation.md	.agents/skills/avatar-video/references/video-generation_zh.md
+.agents/skills/avatar-video/references/video-status.md	.agents/skills/avatar-video/references/video-status_zh.md
+.agents/skills/avatar-video/references/voices.md	.agents/skills/avatar-video/references/voices_zh.md
+.agents/skills/avatar-video/references/webhooks.md	.agents/skills/avatar-video/references/webhooks_zh.md
+.agents/skills/azure-speech-to-text/SKILL.md	.agents/skills/azure-speech-to-text/SKILL_zh.md
+.agents/skills/azure-text-to-speech/SKILL.md	.agents/skills/azure-text-to-speech/SKILL_zh.md
+.agents/skills/beautiful-mermaid/SKILL.md	.agents/skills/beautiful-mermaid/SKILL_zh.md
+.agents/skills/beautiful-mermaid/references/mermaid-syntax.md	.agents/skills/beautiful-mermaid/references/mermaid-syntax_zh.md

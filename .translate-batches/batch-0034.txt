@@ -1,0 +1,10 @@
+.agents/skills/motion-graphics/agents/finalize.md	.agents/skills/motion-graphics/agents/finalize_zh.md
+.agents/skills/motion-graphics/catalog-map.md	.agents/skills/motion-graphics/catalog-map_zh.md
+.agents/skills/motion-graphics/categories/asset-fusion/module.md	.agents/skills/motion-graphics/categories/asset-fusion/module_zh.md
+.agents/skills/motion-graphics/categories/charts/module.md	.agents/skills/motion-graphics/categories/charts/module_zh.md
+.agents/skills/motion-graphics/categories/kinetic-type/module.md	.agents/skills/motion-graphics/categories/kinetic-type/module_zh.md
+.agents/skills/motion-graphics/categories/logo-reveal/module.md	.agents/skills/motion-graphics/categories/logo-reveal/module_zh.md
+.agents/skills/motion-graphics/categories/lower-thirds/module.md	.agents/skills/motion-graphics/categories/lower-thirds/module_zh.md
+.agents/skills/motion-graphics/categories/maps/module.md	.agents/skills/motion-graphics/categories/maps/module_zh.md
+.agents/skills/motion-graphics/categories/news/module.md	.agents/skills/motion-graphics/categories/news/module_zh.md
+.agents/skills/motion-graphics/categories/stat/module.md	.agents/skills/motion-graphics/categories/stat/module_zh.md

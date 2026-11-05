@@ -1,0 +1,10 @@
+.agents/skills/hyperframes/PROVENANCE.md	.agents/skills/hyperframes/PROVENANCE_zh.md
+.agents/skills/hyperframes/SKILL.md	.agents/skills/hyperframes/SKILL_zh.md
+.agents/skills/hyperframes-animation/SKILL.md	.agents/skills/hyperframes-animation/SKILL_zh.md
+.agents/skills/hyperframes-animation/adapters/animate-text.md	.agents/skills/hyperframes-animation/adapters/animate-text_zh.md
+.agents/skills/hyperframes-animation/adapters/animejs.md	.agents/skills/hyperframes-animation/adapters/animejs_zh.md
+.agents/skills/hyperframes-animation/adapters/css-animations.md	.agents/skills/hyperframes-animation/adapters/css-animations_zh.md
+.agents/skills/hyperframes-animation/adapters/gsap-easing-and-stagger.md	.agents/skills/hyperframes-animation/adapters/gsap-easing-and-stagger_zh.md
+.agents/skills/hyperframes-animation/adapters/gsap-timeline-and-labels.md	.agents/skills/hyperframes-animation/adapters/gsap-timeline-and-labels_zh.md
+.agents/skills/hyperframes-animation/adapters/gsap-transforms-and-perf.md	.agents/skills/hyperframes-animation/adapters/gsap-transforms-and-perf_zh.md
+.agents/skills/hyperframes-animation/adapters/gsap.md	.agents/skills/hyperframes-animation/adapters/gsap_zh.md

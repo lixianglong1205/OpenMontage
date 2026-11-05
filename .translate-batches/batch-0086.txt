@@ -1,0 +1,10 @@
+.claude/skills/vercel-react-best-practices/rules/rerender-derived-state.md	.claude/skills/vercel-react-best-practices/rules/rerender-derived-state_zh.md
+.claude/skills/vercel-react-best-practices/rules/rerender-functional-setstate.md	.claude/skills/vercel-react-best-practices/rules/rerender-functional-setstate_zh.md
+.claude/skills/vercel-react-best-practices/rules/rerender-lazy-state-init.md	.claude/skills/vercel-react-best-practices/rules/rerender-lazy-state-init_zh.md
+.claude/skills/vercel-react-best-practices/rules/rerender-memo-with-default-value.md	.claude/skills/vercel-react-best-practices/rules/rerender-memo-with-default-value_zh.md
+.claude/skills/vercel-react-best-practices/rules/rerender-memo.md	.claude/skills/vercel-react-best-practices/rules/rerender-memo_zh.md
+.claude/skills/vercel-react-best-practices/rules/rerender-move-effect-to-event.md	.claude/skills/vercel-react-best-practices/rules/rerender-move-effect-to-event_zh.md
+.claude/skills/vercel-react-best-practices/rules/rerender-no-inline-components.md	.claude/skills/vercel-react-best-practices/rules/rerender-no-inline-components_zh.md
+.claude/skills/vercel-react-best-practices/rules/rerender-simple-expression-in-memo.md	.claude/skills/vercel-react-best-practices/rules/rerender-simple-expression-in-memo_zh.md
+.claude/skills/vercel-react-best-practices/rules/rerender-split-combined-hooks.md	.claude/skills/vercel-react-best-practices/rules/rerender-split-combined-hooks_zh.md
+.claude/skills/vercel-react-best-practices/rules/rerender-transitions.md	.claude/skills/vercel-react-best-practices/rules/rerender-transitions_zh.md

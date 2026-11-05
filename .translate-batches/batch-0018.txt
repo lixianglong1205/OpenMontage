@@ -1,0 +1,10 @@
+.agents/skills/hyperframes-animation/transitions/catalog.md	.agents/skills/hyperframes-animation/transitions/catalog_zh.md
+.agents/skills/hyperframes-animation/transitions/css-3d.md	.agents/skills/hyperframes-animation/transitions/css-3d_zh.md
+.agents/skills/hyperframes-animation/transitions/css-blur.md	.agents/skills/hyperframes-animation/transitions/css-blur_zh.md
+.agents/skills/hyperframes-animation/transitions/css-cover.md	.agents/skills/hyperframes-animation/transitions/css-cover_zh.md
+.agents/skills/hyperframes-animation/transitions/css-destruction.md	.agents/skills/hyperframes-animation/transitions/css-destruction_zh.md
+.agents/skills/hyperframes-animation/transitions/css-dissolve.md	.agents/skills/hyperframes-animation/transitions/css-dissolve_zh.md
+.agents/skills/hyperframes-animation/transitions/css-distortion.md	.agents/skills/hyperframes-animation/transitions/css-distortion_zh.md
+.agents/skills/hyperframes-animation/transitions/css-grid.md	.agents/skills/hyperframes-animation/transitions/css-grid_zh.md
+.agents/skills/hyperframes-animation/transitions/css-light.md	.agents/skills/hyperframes-animation/transitions/css-light_zh.md
+.agents/skills/hyperframes-animation/transitions/css-mechanical.md	.agents/skills/hyperframes-animation/transitions/css-mechanical_zh.md

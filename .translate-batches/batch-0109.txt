@@ -1,0 +1,10 @@
+skills/pipelines/screen-demo/script-director.md	skills/pipelines/screen-demo/script-director_zh.md
+skills/pipelines/talking-head/asset-director.md	skills/pipelines/talking-head/asset-director_zh.md
+skills/pipelines/talking-head/compose-director.md	skills/pipelines/talking-head/compose-director_zh.md
+skills/pipelines/talking-head/edit-director.md	skills/pipelines/talking-head/edit-director_zh.md
+skills/pipelines/talking-head/executive-producer.md	skills/pipelines/talking-head/executive-producer_zh.md
+skills/pipelines/talking-head/idea-director.md	skills/pipelines/talking-head/idea-director_zh.md
+skills/pipelines/talking-head/publish-director.md	skills/pipelines/talking-head/publish-director_zh.md
+skills/pipelines/talking-head/scene-director.md	skills/pipelines/talking-head/scene-director_zh.md
+skills/pipelines/talking-head/script-director.md	skills/pipelines/talking-head/script-director_zh.md
+tests/qa/QA_PLAN.md	tests/qa/QA_PLAN_zh.md

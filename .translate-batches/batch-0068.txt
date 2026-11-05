@@ -1,0 +1,10 @@
+.claude/skills/manimce-best-practices/rules/3d.md	.claude/skills/manimce-best-practices/rules/3d_zh.md
+.claude/skills/manimce-best-practices/rules/animation-groups.md	.claude/skills/manimce-best-practices/rules/animation-groups_zh.md
+.claude/skills/manimce-best-practices/rules/animations.md	.claude/skills/manimce-best-practices/rules/animations_zh.md
+.claude/skills/manimce-best-practices/rules/axes.md	.claude/skills/manimce-best-practices/rules/axes_zh.md
+.claude/skills/manimce-best-practices/rules/camera.md	.claude/skills/manimce-best-practices/rules/camera_zh.md
+.claude/skills/manimce-best-practices/rules/cli.md	.claude/skills/manimce-best-practices/rules/cli_zh.md
+.claude/skills/manimce-best-practices/rules/colors.md	.claude/skills/manimce-best-practices/rules/colors_zh.md
+.claude/skills/manimce-best-practices/rules/config.md	.claude/skills/manimce-best-practices/rules/config_zh.md
+.claude/skills/manimce-best-practices/rules/creation-animations.md	.claude/skills/manimce-best-practices/rules/creation-animations_zh.md
+.claude/skills/manimce-best-practices/rules/graphing.md	.claude/skills/manimce-best-practices/rules/graphing_zh.md

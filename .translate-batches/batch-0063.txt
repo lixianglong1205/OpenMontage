@@ -1,0 +1,10 @@
+.claude/skills/d3-viz/references/scale-reference.md	.claude/skills/d3-viz/references/scale-reference_zh.md
+.claude/skills/elevenlabs/SKILL.md	.claude/skills/elevenlabs/SKILL_zh.md
+.claude/skills/elevenlabs/reference.md	.claude/skills/elevenlabs/reference_zh.md
+.claude/skills/faceswap/SKILL.md	.claude/skills/faceswap/SKILL_zh.md
+.claude/skills/ffmpeg/SKILL.md	.claude/skills/ffmpeg/SKILL_zh.md
+.claude/skills/ffmpeg/reference.md	.claude/skills/ffmpeg/reference_zh.md
+.claude/skills/flux-best-practices/AGENTS.md	.claude/skills/flux-best-practices/AGENTS_zh.md
+.claude/skills/flux-best-practices/SKILL.md	.claude/skills/flux-best-practices/SKILL_zh.md
+.claude/skills/flux-best-practices/rules/_sections.md	.claude/skills/flux-best-practices/rules/_sections_zh.md
+.claude/skills/flux-best-practices/rules/core-principles.md	.claude/skills/flux-best-practices/rules/core-principles_zh.md

@@ -1,0 +1,10 @@
+.agents/skills/hyperframes-creative/references/video-composition.md	.agents/skills/hyperframes-creative/references/video-composition_zh.md
+.agents/skills/hyperframes-creative/references/visual-styles.md	.agents/skills/hyperframes-creative/references/visual-styles_zh.md
+.agents/skills/hyperframes-media/SKILL.md	.agents/skills/hyperframes-media/SKILL_zh.md
+.agents/skills/hyperframes-media/assets/sfx/CREDITS.md	.agents/skills/hyperframes-media/assets/sfx/CREDITS_zh.md
+.agents/skills/hyperframes-media/references/bgm.md	.agents/skills/hyperframes-media/references/bgm_zh.md
+.agents/skills/hyperframes-media/references/captions/authoring.md	.agents/skills/hyperframes-media/references/captions/authoring_zh.md
+.agents/skills/hyperframes-media/references/captions/motion.md	.agents/skills/hyperframes-media/references/captions/motion_zh.md
+.agents/skills/hyperframes-media/references/captions/transcript-handling.md	.agents/skills/hyperframes-media/references/captions/transcript-handling_zh.md
+.agents/skills/hyperframes-media/references/remove-background.md	.agents/skills/hyperframes-media/references/remove-background_zh.md
+.agents/skills/hyperframes-media/references/requirements.md	.agents/skills/hyperframes-media/references/requirements_zh.md

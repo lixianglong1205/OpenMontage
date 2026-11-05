@@ -1,0 +1,10 @@
+.claude/skills/vercel-react-best-practices/AGENTS.md	.claude/skills/vercel-react-best-practices/AGENTS_zh.md
+.claude/skills/vercel-react-best-practices/README.md	.claude/skills/vercel-react-best-practices/README_zh.md
+.claude/skills/vercel-react-best-practices/SKILL.md	.claude/skills/vercel-react-best-practices/SKILL_zh.md
+.claude/skills/vercel-react-best-practices/rules/_sections.md	.claude/skills/vercel-react-best-practices/rules/_sections_zh.md
+.claude/skills/vercel-react-best-practices/rules/_template.md	.claude/skills/vercel-react-best-practices/rules/_template_zh.md
+.claude/skills/vercel-react-best-practices/rules/advanced-event-handler-refs.md	.claude/skills/vercel-react-best-practices/rules/advanced-event-handler-refs_zh.md
+.claude/skills/vercel-react-best-practices/rules/advanced-init-once.md	.claude/skills/vercel-react-best-practices/rules/advanced-init-once_zh.md
+.claude/skills/vercel-react-best-practices/rules/advanced-use-latest.md	.claude/skills/vercel-react-best-practices/rules/advanced-use-latest_zh.md
+.claude/skills/vercel-react-best-practices/rules/async-api-routes.md	.claude/skills/vercel-react-best-practices/rules/async-api-routes_zh.md
+.claude/skills/vercel-react-best-practices/rules/async-defer-await.md	.claude/skills/vercel-react-best-practices/rules/async-defer-await_zh.md

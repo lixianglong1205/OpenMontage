@@ -1,0 +1,10 @@
+.agents/skills/hyperframes-animation/rules/hacker-flip-3d.md	.agents/skills/hyperframes-animation/rules/hacker-flip-3d_zh.md
+.agents/skills/hyperframes-animation/rules/kinetic-beat-slam.md	.agents/skills/hyperframes-animation/rules/kinetic-beat-slam_zh.md
+.agents/skills/hyperframes-animation/rules/motion-blur-streak.md	.agents/skills/hyperframes-animation/rules/motion-blur-streak_zh.md
+.agents/skills/hyperframes-animation/rules/multi-phase-camera.md	.agents/skills/hyperframes-animation/rules/multi-phase-camera_zh.md
+.agents/skills/hyperframes-animation/rules/orbit-3d-entry.md	.agents/skills/hyperframes-animation/rules/orbit-3d-entry_zh.md
+.agents/skills/hyperframes-animation/rules/physics-press-reaction.md	.agents/skills/hyperframes-animation/rules/physics-press-reaction_zh.md
+.agents/skills/hyperframes-animation/rules/press-release-spring.md	.agents/skills/hyperframes-animation/rules/press-release-spring_zh.md
+.agents/skills/hyperframes-animation/rules/reactive-displacement.md	.agents/skills/hyperframes-animation/rules/reactive-displacement_zh.md
+.agents/skills/hyperframes-animation/rules/scale-swap-transition.md	.agents/skills/hyperframes-animation/rules/scale-swap-transition_zh.md
+.agents/skills/hyperframes-animation/rules/sine-wave-loop.md	.agents/skills/hyperframes-animation/rules/sine-wave-loop_zh.md

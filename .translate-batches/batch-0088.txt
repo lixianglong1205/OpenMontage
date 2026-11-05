@@ -1,0 +1,10 @@
+.claude/skills/vercel-react-best-practices/rules/server-serialization.md	.claude/skills/vercel-react-best-practices/rules/server-serialization_zh.md
+.claude/skills/video-download/SKILL.md	.claude/skills/video-download/SKILL_zh.md
+.claude/skills/video-edit/SKILL.md	.claude/skills/video-edit/SKILL_zh.md
+.claude/skills/video-edit/references/operations.md	.claude/skills/video-edit/references/operations_zh.md
+.claude/skills/video-translate/SKILL.md	.claude/skills/video-translate/SKILL_zh.md
+.claude/skills/video-understand/SKILL.md	.claude/skills/video-understand/SKILL_zh.md
+.claude/skills/video-understand/references/output-format.md	.claude/skills/video-understand/references/output-format_zh.md
+.claude/skills/video_toolkit/SKILL.md	.claude/skills/video_toolkit/SKILL_zh.md
+.claude/skills/visual-style/SKILL.md	.claude/skills/visual-style/SKILL_zh.md
+.claude/skills/visual-style/references/connectors/figma.md	.claude/skills/visual-style/references/connectors/figma_zh.md

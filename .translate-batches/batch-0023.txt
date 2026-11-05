@@ -1,0 +1,10 @@
+.agents/skills/hyperframes-creative/palettes/clean-corporate.md	.agents/skills/hyperframes-creative/palettes/clean-corporate_zh.md
+.agents/skills/hyperframes-creative/palettes/dark-premium.md	.agents/skills/hyperframes-creative/palettes/dark-premium_zh.md
+.agents/skills/hyperframes-creative/palettes/jewel-rich.md	.agents/skills/hyperframes-creative/palettes/jewel-rich_zh.md
+.agents/skills/hyperframes-creative/palettes/monochrome.md	.agents/skills/hyperframes-creative/palettes/monochrome_zh.md
+.agents/skills/hyperframes-creative/palettes/nature-earth.md	.agents/skills/hyperframes-creative/palettes/nature-earth_zh.md
+.agents/skills/hyperframes-creative/palettes/neon-electric.md	.agents/skills/hyperframes-creative/palettes/neon-electric_zh.md
+.agents/skills/hyperframes-creative/palettes/pastel-soft.md	.agents/skills/hyperframes-creative/palettes/pastel-soft_zh.md
+.agents/skills/hyperframes-creative/palettes/warm-editorial.md	.agents/skills/hyperframes-creative/palettes/warm-editorial_zh.md
+.agents/skills/hyperframes-creative/references/audio-reactive.md	.agents/skills/hyperframes-creative/references/audio-reactive_zh.md
+.agents/skills/hyperframes-creative/references/beat-direction.md	.agents/skills/hyperframes-creative/references/beat-direction_zh.md

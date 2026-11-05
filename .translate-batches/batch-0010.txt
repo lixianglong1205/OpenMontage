@@ -1,0 +1,10 @@
+.agents/skills/heygen/references/remotion-integration.md	.agents/skills/heygen/references/remotion-integration_zh.md
+.agents/skills/heygen/references/scripts.md	.agents/skills/heygen/references/scripts_zh.md
+.agents/skills/heygen/references/templates.md	.agents/skills/heygen/references/templates_zh.md
+.agents/skills/heygen/references/text-overlays.md	.agents/skills/heygen/references/text-overlays_zh.md
+.agents/skills/heygen/references/video-agent.md	.agents/skills/heygen/references/video-agent_zh.md
+.agents/skills/heygen/references/video-generation.md	.agents/skills/heygen/references/video-generation_zh.md
+.agents/skills/heygen/references/video-status.md	.agents/skills/heygen/references/video-status_zh.md
+.agents/skills/heygen/references/visual-styles.md	.agents/skills/heygen/references/visual-styles_zh.md
+.agents/skills/heygen/references/voices.md	.agents/skills/heygen/references/voices_zh.md
+.agents/skills/heygen/references/webhooks.md	.agents/skills/heygen/references/webhooks_zh.md

@@ -1,0 +1,10 @@
+.agents/skills/remotion-to-hyperframes/references/escape-hatch.md	.agents/skills/remotion-to-hyperframes/references/escape-hatch_zh.md
+.agents/skills/remotion-to-hyperframes/references/eval.md	.agents/skills/remotion-to-hyperframes/references/eval_zh.md
+.agents/skills/remotion-to-hyperframes/references/fonts.md	.agents/skills/remotion-to-hyperframes/references/fonts_zh.md
+.agents/skills/remotion-to-hyperframes/references/limitations.md	.agents/skills/remotion-to-hyperframes/references/limitations_zh.md
+.agents/skills/remotion-to-hyperframes/references/lottie.md	.agents/skills/remotion-to-hyperframes/references/lottie_zh.md
+.agents/skills/remotion-to-hyperframes/references/media.md	.agents/skills/remotion-to-hyperframes/references/media_zh.md
+.agents/skills/remotion-to-hyperframes/references/parameters.md	.agents/skills/remotion-to-hyperframes/references/parameters_zh.md
+.agents/skills/remotion-to-hyperframes/references/sequencing.md	.agents/skills/remotion-to-hyperframes/references/sequencing_zh.md
+.agents/skills/remotion-to-hyperframes/references/timing.md	.agents/skills/remotion-to-hyperframes/references/timing_zh.md
+.agents/skills/remotion-to-hyperframes/references/transitions.md	.agents/skills/remotion-to-hyperframes/references/transitions_zh.md

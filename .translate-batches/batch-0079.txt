@@ -1,0 +1,10 @@
+.claude/skills/threejs-interaction/SKILL.md	.claude/skills/threejs-interaction/SKILL_zh.md
+.claude/skills/threejs-lighting/SKILL.md	.claude/skills/threejs-lighting/SKILL_zh.md
+.claude/skills/threejs-loaders/SKILL.md	.claude/skills/threejs-loaders/SKILL_zh.md
+.claude/skills/threejs-materials/SKILL.md	.claude/skills/threejs-materials/SKILL_zh.md
+.claude/skills/threejs-postprocessing/SKILL.md	.claude/skills/threejs-postprocessing/SKILL_zh.md
+.claude/skills/threejs-shaders/SKILL.md	.claude/skills/threejs-shaders/SKILL_zh.md
+.claude/skills/threejs-textures/SKILL.md	.claude/skills/threejs-textures/SKILL_zh.md
+.claude/skills/vercel-composition-patterns/AGENTS.md	.claude/skills/vercel-composition-patterns/AGENTS_zh.md
+.claude/skills/vercel-composition-patterns/README.md	.claude/skills/vercel-composition-patterns/README_zh.md
+.claude/skills/vercel-composition-patterns/SKILL.md	.claude/skills/vercel-composition-patterns/SKILL_zh.md

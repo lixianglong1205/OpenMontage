@@ -1,0 +1,10 @@
+.agents/skills/manimgl-best-practices/rules/styling.md	.agents/skills/manimgl-best-practices/rules/styling_zh.md
+.agents/skills/manimgl-best-practices/rules/t2c.md	.agents/skills/manimgl-best-practices/rules/t2c_zh.md
+.agents/skills/manimgl-best-practices/rules/tex.md	.agents/skills/manimgl-best-practices/rules/tex_zh.md
+.agents/skills/manimgl-best-practices/rules/text.md	.agents/skills/manimgl-best-practices/rules/text_zh.md
+.agents/skills/manimgl-best-practices/rules/transform-animations.md	.agents/skills/manimgl-best-practices/rules/transform-animations_zh.md
+.agents/skills/media-use/SKILL.md	.agents/skills/media-use/SKILL_zh.md
+.agents/skills/minimax-h3/SKILL.md	.agents/skills/minimax-h3/SKILL_zh.md
+.agents/skills/motion-graphics/SKILL.md	.agents/skills/motion-graphics/SKILL_zh.md
+.agents/skills/motion-graphics/agents/builder.md	.agents/skills/motion-graphics/agents/builder_zh.md
+.agents/skills/motion-graphics/agents/director.md	.agents/skills/motion-graphics/agents/director_zh.md

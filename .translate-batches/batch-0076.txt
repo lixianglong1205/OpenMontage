@@ -1,0 +1,10 @@
+.claude/skills/remotion-best-practices/rules/measuring-dom-nodes.md	.claude/skills/remotion-best-practices/rules/measuring-dom-nodes_zh.md
+.claude/skills/remotion-best-practices/rules/measuring-text.md	.claude/skills/remotion-best-practices/rules/measuring-text_zh.md
+.claude/skills/remotion-best-practices/rules/parameters.md	.claude/skills/remotion-best-practices/rules/parameters_zh.md
+.claude/skills/remotion-best-practices/rules/sequencing.md	.claude/skills/remotion-best-practices/rules/sequencing_zh.md
+.claude/skills/remotion-best-practices/rules/sfx.md	.claude/skills/remotion-best-practices/rules/sfx_zh.md
+.claude/skills/remotion-best-practices/rules/subtitles.md	.claude/skills/remotion-best-practices/rules/subtitles_zh.md
+.claude/skills/remotion-best-practices/rules/tailwind.md	.claude/skills/remotion-best-practices/rules/tailwind_zh.md
+.claude/skills/remotion-best-practices/rules/text-animations.md	.claude/skills/remotion-best-practices/rules/text-animations_zh.md
+.claude/skills/remotion-best-practices/rules/timing.md	.claude/skills/remotion-best-practices/rules/timing_zh.md
+.claude/skills/remotion-best-practices/rules/transcribe-captions.md	.claude/skills/remotion-best-practices/rules/transcribe-captions_zh.md

@@ -1,0 +1,10 @@
+.agents/skills/vercel-react-best-practices/rules/bundle-preload.md	.agents/skills/vercel-react-best-practices/rules/bundle-preload_zh.md
+.agents/skills/vercel-react-best-practices/rules/client-event-listeners.md	.agents/skills/vercel-react-best-practices/rules/client-event-listeners_zh.md
+.agents/skills/vercel-react-best-practices/rules/client-localstorage-schema.md	.agents/skills/vercel-react-best-practices/rules/client-localstorage-schema_zh.md
+.agents/skills/vercel-react-best-practices/rules/client-passive-event-listeners.md	.agents/skills/vercel-react-best-practices/rules/client-passive-event-listeners_zh.md
+.agents/skills/vercel-react-best-practices/rules/client-swr-dedup.md	.agents/skills/vercel-react-best-practices/rules/client-swr-dedup_zh.md
+.agents/skills/vercel-react-best-practices/rules/js-batch-dom-css.md	.agents/skills/vercel-react-best-practices/rules/js-batch-dom-css_zh.md
+.agents/skills/vercel-react-best-practices/rules/js-cache-function-results.md	.agents/skills/vercel-react-best-practices/rules/js-cache-function-results_zh.md
+.agents/skills/vercel-react-best-practices/rules/js-cache-property-access.md	.agents/skills/vercel-react-best-practices/rules/js-cache-property-access_zh.md
+.agents/skills/vercel-react-best-practices/rules/js-cache-storage.md	.agents/skills/vercel-react-best-practices/rules/js-cache-storage_zh.md
+.agents/skills/vercel-react-best-practices/rules/js-combine-iterations.md	.agents/skills/vercel-react-best-practices/rules/js-combine-iterations_zh.md

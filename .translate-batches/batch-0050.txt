@@ -1,0 +1,10 @@
+.agents/skills/vercel-react-best-practices/rules/js-early-exit.md	.agents/skills/vercel-react-best-practices/rules/js-early-exit_zh.md
+.agents/skills/vercel-react-best-practices/rules/js-flatmap-filter.md	.agents/skills/vercel-react-best-practices/rules/js-flatmap-filter_zh.md
+.agents/skills/vercel-react-best-practices/rules/js-hoist-regexp.md	.agents/skills/vercel-react-best-practices/rules/js-hoist-regexp_zh.md
+.agents/skills/vercel-react-best-practices/rules/js-index-maps.md	.agents/skills/vercel-react-best-practices/rules/js-index-maps_zh.md
+.agents/skills/vercel-react-best-practices/rules/js-length-check-first.md	.agents/skills/vercel-react-best-practices/rules/js-length-check-first_zh.md
+.agents/skills/vercel-react-best-practices/rules/js-min-max-loop.md	.agents/skills/vercel-react-best-practices/rules/js-min-max-loop_zh.md
+.agents/skills/vercel-react-best-practices/rules/js-request-idle-callback.md	.agents/skills/vercel-react-best-practices/rules/js-request-idle-callback_zh.md
+.agents/skills/vercel-react-best-practices/rules/js-set-map-lookups.md	.agents/skills/vercel-react-best-practices/rules/js-set-map-lookups_zh.md
+.agents/skills/vercel-react-best-practices/rules/js-tosorted-immutable.md	.agents/skills/vercel-react-best-practices/rules/js-tosorted-immutable_zh.md
+.agents/skills/vercel-react-best-practices/rules/rendering-activity.md	.agents/skills/vercel-react-best-practices/rules/rendering-activity_zh.md

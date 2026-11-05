@@ -1,0 +1,10 @@
+.claude/skills/vercel-react-best-practices/rules/js-index-maps.md	.claude/skills/vercel-react-best-practices/rules/js-index-maps_zh.md
+.claude/skills/vercel-react-best-practices/rules/js-length-check-first.md	.claude/skills/vercel-react-best-practices/rules/js-length-check-first_zh.md
+.claude/skills/vercel-react-best-practices/rules/js-min-max-loop.md	.claude/skills/vercel-react-best-practices/rules/js-min-max-loop_zh.md
+.claude/skills/vercel-react-best-practices/rules/js-request-idle-callback.md	.claude/skills/vercel-react-best-practices/rules/js-request-idle-callback_zh.md
+.claude/skills/vercel-react-best-practices/rules/js-set-map-lookups.md	.claude/skills/vercel-react-best-practices/rules/js-set-map-lookups_zh.md
+.claude/skills/vercel-react-best-practices/rules/js-tosorted-immutable.md	.claude/skills/vercel-react-best-practices/rules/js-tosorted-immutable_zh.md
+.claude/skills/vercel-react-best-practices/rules/rendering-activity.md	.claude/skills/vercel-react-best-practices/rules/rendering-activity_zh.md
+.claude/skills/vercel-react-best-practices/rules/rendering-animate-svg-wrapper.md	.claude/skills/vercel-react-best-practices/rules/rendering-animate-svg-wrapper_zh.md
+.claude/skills/vercel-react-best-practices/rules/rendering-conditional-render.md	.claude/skills/vercel-react-best-practices/rules/rendering-conditional-render_zh.md
+.claude/skills/vercel-react-best-practices/rules/rendering-content-visibility.md	.claude/skills/vercel-react-best-practices/rules/rendering-content-visibility_zh.md

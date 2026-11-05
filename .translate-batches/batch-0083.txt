@@ -1,0 +1,10 @@
+.claude/skills/vercel-react-best-practices/rules/client-passive-event-listeners.md	.claude/skills/vercel-react-best-practices/rules/client-passive-event-listeners_zh.md
+.claude/skills/vercel-react-best-practices/rules/client-swr-dedup.md	.claude/skills/vercel-react-best-practices/rules/client-swr-dedup_zh.md
+.claude/skills/vercel-react-best-practices/rules/js-batch-dom-css.md	.claude/skills/vercel-react-best-practices/rules/js-batch-dom-css_zh.md
+.claude/skills/vercel-react-best-practices/rules/js-cache-function-results.md	.claude/skills/vercel-react-best-practices/rules/js-cache-function-results_zh.md
+.claude/skills/vercel-react-best-practices/rules/js-cache-property-access.md	.claude/skills/vercel-react-best-practices/rules/js-cache-property-access_zh.md
+.claude/skills/vercel-react-best-practices/rules/js-cache-storage.md	.claude/skills/vercel-react-best-practices/rules/js-cache-storage_zh.md
+.claude/skills/vercel-react-best-practices/rules/js-combine-iterations.md	.claude/skills/vercel-react-best-practices/rules/js-combine-iterations_zh.md
+.claude/skills/vercel-react-best-practices/rules/js-early-exit.md	.claude/skills/vercel-react-best-practices/rules/js-early-exit_zh.md
+.claude/skills/vercel-react-best-practices/rules/js-flatmap-filter.md	.claude/skills/vercel-react-best-practices/rules/js-flatmap-filter_zh.md
+.claude/skills/vercel-react-best-practices/rules/js-hoist-regexp.md	.claude/skills/vercel-react-best-practices/rules/js-hoist-regexp_zh.md

@@ -1,0 +1,10 @@
+.agents/skills/seedance-2-0/SKILL.md	.agents/skills/seedance-2-0/SKILL_zh.md
+.agents/skills/seedance-2-5/SKILL.md	.agents/skills/seedance-2-5/SKILL_zh.md
+.agents/skills/seedance-2-5/reference/techniques.md	.agents/skills/seedance-2-5/reference/techniques_zh.md
+.agents/skills/setup-api-key/SKILL.md	.agents/skills/setup-api-key/SKILL_zh.md
+.agents/skills/sound-effects/SKILL.md	.agents/skills/sound-effects/SKILL_zh.md
+.agents/skills/sound-effects/references/installation.md	.agents/skills/sound-effects/references/installation_zh.md
+.agents/skills/speech-to-text/SKILL.md	.agents/skills/speech-to-text/SKILL_zh.md
+.agents/skills/speech-to-text/references/installation.md	.agents/skills/speech-to-text/references/installation_zh.md
+.agents/skills/speech-to-text/references/realtime-client-side.md	.agents/skills/speech-to-text/references/realtime-client-side_zh.md
+.agents/skills/speech-to-text/references/realtime-commit-strategies.md	.agents/skills/speech-to-text/references/realtime-commit-strategies_zh.md

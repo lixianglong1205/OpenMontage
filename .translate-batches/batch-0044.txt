@@ -1,0 +1,10 @@
+.agents/skills/speech-to-text/references/realtime-events.md	.agents/skills/speech-to-text/references/realtime-events_zh.md
+.agents/skills/speech-to-text/references/realtime-server-side.md	.agents/skills/speech-to-text/references/realtime-server-side_zh.md
+.agents/skills/speech-to-text/references/transcription-options.md	.agents/skills/speech-to-text/references/transcription-options_zh.md
+.agents/skills/svg-character-animation/SKILL.md	.agents/skills/svg-character-animation/SKILL_zh.md
+.agents/skills/synthetic-screen-recording/SKILL.md	.agents/skills/synthetic-screen-recording/SKILL_zh.md
+.agents/skills/tailwind-design-system/SKILL.md	.agents/skills/tailwind-design-system/SKILL_zh.md
+.agents/skills/text-to-speech/SKILL.md	.agents/skills/text-to-speech/SKILL_zh.md
+.agents/skills/threejs-animation/SKILL.md	.agents/skills/threejs-animation/SKILL_zh.md
+.agents/skills/threejs-fundamentals/SKILL.md	.agents/skills/threejs-fundamentals/SKILL_zh.md
+.agents/skills/threejs-geometry/SKILL.md	.agents/skills/threejs-geometry/SKILL_zh.md

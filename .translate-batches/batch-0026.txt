@@ -1,0 +1,10 @@
+.agents/skills/hyperframes-media/references/sfx.md	.agents/skills/hyperframes-media/references/sfx_zh.md
+.agents/skills/hyperframes-media/references/transcribe.md	.agents/skills/hyperframes-media/references/transcribe_zh.md
+.agents/skills/hyperframes-media/references/tts-to-captions.md	.agents/skills/hyperframes-media/references/tts-to-captions_zh.md
+.agents/skills/hyperframes-media/references/tts.md	.agents/skills/hyperframes-media/references/tts_zh.md
+.agents/skills/hyperframes-registry/SKILL.md	.agents/skills/hyperframes-registry/SKILL_zh.md
+.agents/skills/hyperframes-registry/examples/add-block.md	.agents/skills/hyperframes-registry/examples/add-block_zh.md
+.agents/skills/hyperframes-registry/examples/add-component.md	.agents/skills/hyperframes-registry/examples/add-component_zh.md
+.agents/skills/hyperframes-registry/references/contributing.md	.agents/skills/hyperframes-registry/references/contributing_zh.md
+.agents/skills/hyperframes-registry/references/demo-html-pattern.md	.agents/skills/hyperframes-registry/references/demo-html-pattern_zh.md
+.agents/skills/hyperframes-registry/references/discovery.md	.agents/skills/hyperframes-registry/references/discovery_zh.md

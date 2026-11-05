@@ -1,0 +1,10 @@
+.claude/skills/vercel-react-best-practices/rules/async-dependencies.md	.claude/skills/vercel-react-best-practices/rules/async-dependencies_zh.md
+.claude/skills/vercel-react-best-practices/rules/async-parallel.md	.claude/skills/vercel-react-best-practices/rules/async-parallel_zh.md
+.claude/skills/vercel-react-best-practices/rules/async-suspense-boundaries.md	.claude/skills/vercel-react-best-practices/rules/async-suspense-boundaries_zh.md
+.claude/skills/vercel-react-best-practices/rules/bundle-barrel-imports.md	.claude/skills/vercel-react-best-practices/rules/bundle-barrel-imports_zh.md
+.claude/skills/vercel-react-best-practices/rules/bundle-conditional.md	.claude/skills/vercel-react-best-practices/rules/bundle-conditional_zh.md
+.claude/skills/vercel-react-best-practices/rules/bundle-defer-third-party.md	.claude/skills/vercel-react-best-practices/rules/bundle-defer-third-party_zh.md
+.claude/skills/vercel-react-best-practices/rules/bundle-dynamic-imports.md	.claude/skills/vercel-react-best-practices/rules/bundle-dynamic-imports_zh.md
+.claude/skills/vercel-react-best-practices/rules/bundle-preload.md	.claude/skills/vercel-react-best-practices/rules/bundle-preload_zh.md
+.claude/skills/vercel-react-best-practices/rules/client-event-listeners.md	.claude/skills/vercel-react-best-practices/rules/client-event-listeners_zh.md
+.claude/skills/vercel-react-best-practices/rules/client-localstorage-schema.md	.claude/skills/vercel-react-best-practices/rules/client-localstorage-schema_zh.md

@@ -1,0 +1,10 @@
+.claude/skills/heygen/references/prompt-optimizer.md	.claude/skills/heygen/references/prompt-optimizer_zh.md
+.claude/skills/heygen/references/quota.md	.claude/skills/heygen/references/quota_zh.md
+.claude/skills/heygen/references/remotion-integration.md	.claude/skills/heygen/references/remotion-integration_zh.md
+.claude/skills/heygen/references/scripts.md	.claude/skills/heygen/references/scripts_zh.md
+.claude/skills/heygen/references/templates.md	.claude/skills/heygen/references/templates_zh.md
+.claude/skills/heygen/references/text-overlays.md	.claude/skills/heygen/references/text-overlays_zh.md
+.claude/skills/heygen/references/video-agent.md	.claude/skills/heygen/references/video-agent_zh.md
+.claude/skills/heygen/references/video-generation.md	.claude/skills/heygen/references/video-generation_zh.md
+.claude/skills/heygen/references/video-status.md	.claude/skills/heygen/references/video-status_zh.md
+.claude/skills/heygen/references/visual-styles.md	.claude/skills/heygen/references/visual-styles_zh.md

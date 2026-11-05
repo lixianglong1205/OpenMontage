@@ -1,0 +1,10 @@
+.agents/skills/hyperframes-animation/rules/split-tilt-cards.md	.agents/skills/hyperframes-animation/rules/split-tilt-cards_zh.md
+.agents/skills/hyperframes-animation/rules/spring-pop-entrance.md	.agents/skills/hyperframes-animation/rules/spring-pop-entrance_zh.md
+.agents/skills/hyperframes-animation/rules/stat-bars-and-fills.md	.agents/skills/hyperframes-animation/rules/stat-bars-and-fills_zh.md
+.agents/skills/hyperframes-animation/rules/svg-icon-enrichment.md	.agents/skills/hyperframes-animation/rules/svg-icon-enrichment_zh.md
+.agents/skills/hyperframes-animation/rules/svg-path-draw.md	.agents/skills/hyperframes-animation/rules/svg-path-draw_zh.md
+.agents/skills/hyperframes-animation/rules/vertical-spring-ticker.md	.agents/skills/hyperframes-animation/rules/vertical-spring-ticker_zh.md
+.agents/skills/hyperframes-animation/rules/viewport-change.md	.agents/skills/hyperframes-animation/rules/viewport-change_zh.md
+.agents/skills/hyperframes-animation/rules-index.md	.agents/skills/hyperframes-animation/rules-index_zh.md
+.agents/skills/hyperframes-animation/techniques.md	.agents/skills/hyperframes-animation/techniques_zh.md
+.agents/skills/hyperframes-animation/transitions/TRANSITION-REGISTRY.md	.agents/skills/hyperframes-animation/transitions/TRANSITION-REGISTRY_zh.md

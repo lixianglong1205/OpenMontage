@@ -1,0 +1,10 @@
+.agents/skills/hyperframes-animation/blueprints/device-surface-showcase.md	.agents/skills/hyperframes-animation/blueprints/device-surface-showcase_zh.md
+.agents/skills/hyperframes-animation/blueprints/grid-card-assemble.md	.agents/skills/hyperframes-animation/blueprints/grid-card-assemble_zh.md
+.agents/skills/hyperframes-animation/blueprints/kinetic-type-beats.md	.agents/skills/hyperframes-animation/blueprints/kinetic-type-beats_zh.md
+.agents/skills/hyperframes-animation/blueprints/logo-assemble-lockup.md	.agents/skills/hyperframes-animation/blueprints/logo-assemble-lockup_zh.md
+.agents/skills/hyperframes-animation/blueprints/overwhelm-surround.md	.agents/skills/hyperframes-animation/blueprints/overwhelm-surround_zh.md
+.agents/skills/hyperframes-animation/blueprints/spatial-pan-stations.md	.agents/skills/hyperframes-animation/blueprints/spatial-pan-stations_zh.md
+.agents/skills/hyperframes-animation/blueprints/ticker-takeover.md	.agents/skills/hyperframes-animation/blueprints/ticker-takeover_zh.md
+.agents/skills/hyperframes-animation/blueprints/titlecard-reveal.md	.agents/skills/hyperframes-animation/blueprints/titlecard-reveal_zh.md
+.agents/skills/hyperframes-animation/blueprints/typewriter-reveal.md	.agents/skills/hyperframes-animation/blueprints/typewriter-reveal_zh.md
+.agents/skills/hyperframes-animation/blueprints/video-text-pivot.md	.agents/skills/hyperframes-animation/blueprints/video-text-pivot_zh.md

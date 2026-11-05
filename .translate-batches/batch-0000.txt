@@ -1,0 +1,10 @@
+.agents/skills/3d-asset-generation/SKILL.md	.agents/skills/3d-asset-generation/SKILL_zh.md
+.agents/skills/acestep/SKILL.md	.agents/skills/acestep/SKILL_zh.md
+.agents/skills/agents/SKILL.md	.agents/skills/agents/SKILL_zh.md
+.agents/skills/agents/references/agent-configuration.md	.agents/skills/agents/references/agent-configuration_zh.md
+.agents/skills/agents/references/client-tools.md	.agents/skills/agents/references/client-tools_zh.md
+.agents/skills/agents/references/installation.md	.agents/skills/agents/references/installation_zh.md
+.agents/skills/agents/references/outbound-calls.md	.agents/skills/agents/references/outbound-calls_zh.md
+.agents/skills/agents/references/widget-embedding.md	.agents/skills/agents/references/widget-embedding_zh.md
+.agents/skills/ai-video-gen/SKILL.md	.agents/skills/ai-video-gen/SKILL_zh.md
+.agents/skills/atlas-cloud/SKILL.md	.agents/skills/atlas-cloud/SKILL_zh.md

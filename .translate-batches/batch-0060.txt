@@ -1,0 +1,10 @@
+.claude/skills/avatar-video/references/templates.md	.claude/skills/avatar-video/references/templates_zh.md
+.claude/skills/avatar-video/references/text-overlays.md	.claude/skills/avatar-video/references/text-overlays_zh.md
+.claude/skills/avatar-video/references/video-generation.md	.claude/skills/avatar-video/references/video-generation_zh.md
+.claude/skills/avatar-video/references/video-status.md	.claude/skills/avatar-video/references/video-status_zh.md
+.claude/skills/avatar-video/references/voices.md	.claude/skills/avatar-video/references/voices_zh.md
+.claude/skills/avatar-video/references/webhooks.md	.claude/skills/avatar-video/references/webhooks_zh.md
+.claude/skills/azure-speech-to-text/SKILL.md	.claude/skills/azure-speech-to-text/SKILL_zh.md
+.claude/skills/azure-text-to-speech/SKILL.md	.claude/skills/azure-text-to-speech/SKILL_zh.md
+.claude/skills/beautiful-mermaid/SKILL.md	.claude/skills/beautiful-mermaid/SKILL_zh.md
+.claude/skills/beautiful-mermaid/references/mermaid-syntax.md	.claude/skills/beautiful-mermaid/references/mermaid-syntax_zh.md

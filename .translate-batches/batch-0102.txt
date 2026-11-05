@@ -1,0 +1,10 @@
+skills/pipelines/character-animation/publish-director.md	skills/pipelines/character-animation/publish-director_zh.md
+skills/pipelines/character-animation/research-director.md	skills/pipelines/character-animation/research-director_zh.md
+skills/pipelines/character-animation/rig-plan-director.md	skills/pipelines/character-animation/rig-plan-director_zh.md
+skills/pipelines/character-animation/scene-director.md	skills/pipelines/character-animation/scene-director_zh.md
+skills/pipelines/character-animation/script-director.md	skills/pipelines/character-animation/script-director_zh.md
+skills/pipelines/cinematic/asset-director.md	skills/pipelines/cinematic/asset-director_zh.md
+skills/pipelines/cinematic/compose-director.md	skills/pipelines/cinematic/compose-director_zh.md
+skills/pipelines/cinematic/edit-director.md	skills/pipelines/cinematic/edit-director_zh.md
+skills/pipelines/cinematic/executive-producer.md	skills/pipelines/cinematic/executive-producer_zh.md
+skills/pipelines/cinematic/idea-director.md	skills/pipelines/cinematic/idea-director_zh.md

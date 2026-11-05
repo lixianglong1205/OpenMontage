@@ -1,0 +1,10 @@
+.agents/skills/remotion-best-practices/rules/measuring-text.md	.agents/skills/remotion-best-practices/rules/measuring-text_zh.md
+.agents/skills/remotion-best-practices/rules/parameters.md	.agents/skills/remotion-best-practices/rules/parameters_zh.md
+.agents/skills/remotion-best-practices/rules/sequencing.md	.agents/skills/remotion-best-practices/rules/sequencing_zh.md
+.agents/skills/remotion-best-practices/rules/sfx.md	.agents/skills/remotion-best-practices/rules/sfx_zh.md
+.agents/skills/remotion-best-practices/rules/subtitles.md	.agents/skills/remotion-best-practices/rules/subtitles_zh.md
+.agents/skills/remotion-best-practices/rules/tailwind.md	.agents/skills/remotion-best-practices/rules/tailwind_zh.md
+.agents/skills/remotion-best-practices/rules/text-animations.md	.agents/skills/remotion-best-practices/rules/text-animations_zh.md
+.agents/skills/remotion-best-practices/rules/timing.md	.agents/skills/remotion-best-practices/rules/timing_zh.md
+.agents/skills/remotion-best-practices/rules/transcribe-captions.md	.agents/skills/remotion-best-practices/rules/transcribe-captions_zh.md
+.agents/skills/remotion-best-practices/rules/transitions.md	.agents/skills/remotion-best-practices/rules/transitions_zh.md

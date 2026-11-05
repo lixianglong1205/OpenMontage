@@ -1,0 +1,10 @@
+.agents/skills/motion-graphics/categories/tweet/module.md	.agents/skills/motion-graphics/categories/tweet/module_zh.md
+.agents/skills/motion-graphics/categories/webpage/module.md	.agents/skills/motion-graphics/categories/webpage/module_zh.md
+.agents/skills/motion-graphics/grounding/PROTOCOL.md	.agents/skills/motion-graphics/grounding/PROTOCOL_zh.md
+.agents/skills/motion-graphics/phases/source/guide.md	.agents/skills/motion-graphics/phases/source/guide_zh.md
+.agents/skills/motion-graphics/references/builder-contract.md	.agents/skills/motion-graphics/references/builder-contract_zh.md
+.agents/skills/motion-graphics/references/motion-vocabulary.md	.agents/skills/motion-graphics/references/motion-vocabulary_zh.md
+.agents/skills/motion-graphics/references/shot-plan-ir.md	.agents/skills/motion-graphics/references/shot-plan-ir_zh.md
+.agents/skills/music/SKILL.md	.agents/skills/music/SKILL_zh.md
+.agents/skills/music/references/api_reference.md	.agents/skills/music/references/api_reference_zh.md
+.agents/skills/music/references/installation.md	.agents/skills/music/references/installation_zh.md

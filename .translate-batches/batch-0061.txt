@@ -1,0 +1,10 @@
+.claude/skills/bfl-api/SKILL.md	.claude/skills/bfl-api/SKILL_zh.md
+.claude/skills/bfl-api/references/api-key-setup.md	.claude/skills/bfl-api/references/api-key-setup_zh.md
+.claude/skills/bfl-api/references/endpoints.md	.claude/skills/bfl-api/references/endpoints_zh.md
+.claude/skills/bfl-api/references/error-handling.md	.claude/skills/bfl-api/references/error-handling_zh.md
+.claude/skills/bfl-api/references/polling-patterns.md	.claude/skills/bfl-api/references/polling-patterns_zh.md
+.claude/skills/bfl-api/references/rate-limiting.md	.claude/skills/bfl-api/references/rate-limiting_zh.md
+.claude/skills/bfl-api/references/webhook-integration.md	.claude/skills/bfl-api/references/webhook-integration_zh.md
+.claude/skills/create-video/SKILL.md	.claude/skills/create-video/SKILL_zh.md
+.claude/skills/create-video/references/assets.md	.claude/skills/create-video/references/assets_zh.md
+.claude/skills/create-video/references/dimensions.md	.claude/skills/create-video/references/dimensions_zh.md

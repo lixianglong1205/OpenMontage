@@ -1,0 +1,10 @@
+.agents/skills/visual-style/references/gallery/heygen-ai-video.visual-style.md	.agents/skills/visual-style/references/gallery/heygen-ai-video.visual-style_zh.md
+.agents/skills/visual-style/references/gallery/mueller-brockmann-swiss.visual-style.md	.agents/skills/visual-style/references/gallery/mueller-brockmann-swiss.visual-style_zh.md
+.agents/skills/visual-style/references/gallery/neville-brody-industrial.visual-style.md	.agents/skills/visual-style/references/gallery/neville-brody-industrial.visual-style_zh.md
+.agents/skills/visual-style/references/gallery/saul-bass-cinematic.visual-style.md	.agents/skills/visual-style/references/gallery/saul-bass-cinematic.visual-style_zh.md
+.agents/skills/visual-style/references/spec.md	.agents/skills/visual-style/references/spec_zh.md
+.agents/skills/visual-style/references/templates/full.visual-style.md	.agents/skills/visual-style/references/templates/full.visual-style_zh.md
+.agents/skills/visual-style/references/templates/minimal.visual-style.md	.agents/skills/visual-style/references/templates/minimal.visual-style_zh.md
+.agents/skills/web-design-guidelines/SKILL.md	.agents/skills/web-design-guidelines/SKILL_zh.md
+.agents/skills/website-to-video/SKILL.md	.agents/skills/website-to-video/SKILL_zh.md
+.agents/skills/website-to-video/assets/sfx/CREDITS.md	.agents/skills/website-to-video/assets/sfx/CREDITS_zh.md

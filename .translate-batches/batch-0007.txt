@@ -1,0 +1,10 @@
+.agents/skills/flux-best-practices/rules/i2i-prompting.md	.agents/skills/flux-best-practices/rules/i2i-prompting_zh.md
+.agents/skills/flux-best-practices/rules/json-structured-prompting.md	.agents/skills/flux-best-practices/rules/json-structured-prompting_zh.md
+.agents/skills/flux-best-practices/rules/model-selection-guide.md	.agents/skills/flux-best-practices/rules/model-selection-guide_zh.md
+.agents/skills/flux-best-practices/rules/multi-reference-editing.md	.agents/skills/flux-best-practices/rules/multi-reference-editing_zh.md
+.agents/skills/flux-best-practices/rules/negative-prompt-alternatives.md	.agents/skills/flux-best-practices/rules/negative-prompt-alternatives_zh.md
+.agents/skills/flux-best-practices/rules/t2i-prompting.md	.agents/skills/flux-best-practices/rules/t2i-prompting_zh.md
+.agents/skills/flux-best-practices/rules/typography-text.md	.agents/skills/flux-best-practices/rules/typography-text_zh.md
+.agents/skills/framer-motion/SKILL.md	.agents/skills/framer-motion/SKILL_zh.md
+.agents/skills/gemini-omni/SKILL.md	.agents/skills/gemini-omni/SKILL_zh.md
+.agents/skills/grok-media/SKILL.md	.agents/skills/grok-media/SKILL_zh.md

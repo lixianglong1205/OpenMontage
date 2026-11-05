@@ -1,0 +1,10 @@
+.claude/skills/heygen/references/voices.md	.claude/skills/heygen/references/voices_zh.md
+.claude/skills/heygen/references/webhooks.md	.claude/skills/heygen/references/webhooks_zh.md
+.claude/skills/lottie-bodymovin/SKILL.md	.claude/skills/lottie-bodymovin/SKILL_zh.md
+.claude/skills/ltx2/SKILL.md	.claude/skills/ltx2/SKILL_zh.md
+.claude/skills/manim-composer/SKILL.md	.claude/skills/manim-composer/SKILL_zh.md
+.claude/skills/manim-composer/references/narrative-patterns.md	.claude/skills/manim-composer/references/narrative-patterns_zh.md
+.claude/skills/manim-composer/references/scene-examples.md	.claude/skills/manim-composer/references/scene-examples_zh.md
+.claude/skills/manim-composer/references/visual-techniques.md	.claude/skills/manim-composer/references/visual-techniques_zh.md
+.claude/skills/manim-composer/templates/scenes-template.md	.claude/skills/manim-composer/templates/scenes-template_zh.md
+.claude/skills/manimce-best-practices/SKILL.md	.claude/skills/manimce-best-practices/SKILL_zh.md

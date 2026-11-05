@@ -1,0 +1,10 @@
+.claude/skills/manimgl-best-practices/rules/embedding.md	.claude/skills/manimgl-best-practices/rules/embedding_zh.md
+.claude/skills/manimgl-best-practices/rules/frame.md	.claude/skills/manimgl-best-practices/rules/frame_zh.md
+.claude/skills/manimgl-best-practices/rules/interactive.md	.claude/skills/manimgl-best-practices/rules/interactive_zh.md
+.claude/skills/manimgl-best-practices/rules/mobjects.md	.claude/skills/manimgl-best-practices/rules/mobjects_zh.md
+.claude/skills/manimgl-best-practices/rules/scenes.md	.claude/skills/manimgl-best-practices/rules/scenes_zh.md
+.claude/skills/manimgl-best-practices/rules/styling.md	.claude/skills/manimgl-best-practices/rules/styling_zh.md
+.claude/skills/manimgl-best-practices/rules/t2c.md	.claude/skills/manimgl-best-practices/rules/t2c_zh.md
+.claude/skills/manimgl-best-practices/rules/tex.md	.claude/skills/manimgl-best-practices/rules/tex_zh.md
+.claude/skills/manimgl-best-practices/rules/text.md	.claude/skills/manimgl-best-practices/rules/text_zh.md
+.claude/skills/manimgl-best-practices/rules/transform-animations.md	.claude/skills/manimgl-best-practices/rules/transform-animations_zh.md

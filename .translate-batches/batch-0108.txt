@@ -1,0 +1,10 @@
+skills/pipelines/podcast-repurpose/publish-director.md	skills/pipelines/podcast-repurpose/publish-director_zh.md
+skills/pipelines/podcast-repurpose/scene-director.md	skills/pipelines/podcast-repurpose/scene-director_zh.md
+skills/pipelines/podcast-repurpose/script-director.md	skills/pipelines/podcast-repurpose/script-director_zh.md
+skills/pipelines/screen-demo/asset-director.md	skills/pipelines/screen-demo/asset-director_zh.md
+skills/pipelines/screen-demo/compose-director.md	skills/pipelines/screen-demo/compose-director_zh.md
+skills/pipelines/screen-demo/edit-director.md	skills/pipelines/screen-demo/edit-director_zh.md
+skills/pipelines/screen-demo/executive-producer.md	skills/pipelines/screen-demo/executive-producer_zh.md
+skills/pipelines/screen-demo/idea-director.md	skills/pipelines/screen-demo/idea-director_zh.md
+skills/pipelines/screen-demo/publish-director.md	skills/pipelines/screen-demo/publish-director_zh.md
+skills/pipelines/screen-demo/scene-director.md	skills/pipelines/screen-demo/scene-director_zh.md

@@ -1,0 +1,10 @@
+.agents/skills/hyperframes-creative/frame-presets/broadside/FRAME.md	.agents/skills/hyperframes-creative/frame-presets/broadside/FRAME_zh.md
+.agents/skills/hyperframes-creative/frame-presets/capsule/FRAME.md	.agents/skills/hyperframes-creative/frame-presets/capsule/FRAME_zh.md
+.agents/skills/hyperframes-creative/frame-presets/cartesian/FRAME.md	.agents/skills/hyperframes-creative/frame-presets/cartesian/FRAME_zh.md
+.agents/skills/hyperframes-creative/frame-presets/claude/FRAME.md	.agents/skills/hyperframes-creative/frame-presets/claude/FRAME_zh.md
+.agents/skills/hyperframes-creative/frame-presets/cobalt-grid/FRAME.md	.agents/skills/hyperframes-creative/frame-presets/cobalt-grid/FRAME_zh.md
+.agents/skills/hyperframes-creative/frame-presets/coral/FRAME.md	.agents/skills/hyperframes-creative/frame-presets/coral/FRAME_zh.md
+.agents/skills/hyperframes-creative/frame-presets/creative-mode/FRAME.md	.agents/skills/hyperframes-creative/frame-presets/creative-mode/FRAME_zh.md
+.agents/skills/hyperframes-creative/frame-presets/daisy-days/FRAME.md	.agents/skills/hyperframes-creative/frame-presets/daisy-days/FRAME_zh.md
+.agents/skills/hyperframes-creative/frame-presets/editorial-forest/FRAME.md	.agents/skills/hyperframes-creative/frame-presets/editorial-forest/FRAME_zh.md
+.agents/skills/hyperframes-creative/palettes/bold-energetic.md	.agents/skills/hyperframes-creative/palettes/bold-energetic_zh.md

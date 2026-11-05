@@ -1,0 +1,10 @@
+.agents/skills/create-video/references/webhooks.md	.agents/skills/create-video/references/webhooks_zh.md
+.agents/skills/d3-viz/SKILL.md	.agents/skills/d3-viz/SKILL_zh.md
+.agents/skills/d3-viz/references/colour-schemes.md	.agents/skills/d3-viz/references/colour-schemes_zh.md
+.agents/skills/d3-viz/references/d3-patterns.md	.agents/skills/d3-viz/references/d3-patterns_zh.md
+.agents/skills/d3-viz/references/scale-reference.md	.agents/skills/d3-viz/references/scale-reference_zh.md
+.agents/skills/dashscope/SKILL.md	.agents/skills/dashscope/SKILL_zh.md
+.agents/skills/doubao-tts/SKILL.md	.agents/skills/doubao-tts/SKILL_zh.md
+.agents/skills/elevenlabs/SKILL.md	.agents/skills/elevenlabs/SKILL_zh.md
+.agents/skills/elevenlabs/reference.md	.agents/skills/elevenlabs/reference_zh.md
+.agents/skills/faceswap/SKILL.md	.agents/skills/faceswap/SKILL_zh.md

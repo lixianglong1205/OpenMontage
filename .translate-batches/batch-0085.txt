@@ -1,0 +1,10 @@
+.claude/skills/vercel-react-best-practices/rules/rendering-hoist-jsx.md	.claude/skills/vercel-react-best-practices/rules/rendering-hoist-jsx_zh.md
+.claude/skills/vercel-react-best-practices/rules/rendering-hydration-no-flicker.md	.claude/skills/vercel-react-best-practices/rules/rendering-hydration-no-flicker_zh.md
+.claude/skills/vercel-react-best-practices/rules/rendering-hydration-suppress-warning.md	.claude/skills/vercel-react-best-practices/rules/rendering-hydration-suppress-warning_zh.md
+.claude/skills/vercel-react-best-practices/rules/rendering-resource-hints.md	.claude/skills/vercel-react-best-practices/rules/rendering-resource-hints_zh.md
+.claude/skills/vercel-react-best-practices/rules/rendering-script-defer-async.md	.claude/skills/vercel-react-best-practices/rules/rendering-script-defer-async_zh.md
+.claude/skills/vercel-react-best-practices/rules/rendering-svg-precision.md	.claude/skills/vercel-react-best-practices/rules/rendering-svg-precision_zh.md
+.claude/skills/vercel-react-best-practices/rules/rendering-usetransition-loading.md	.claude/skills/vercel-react-best-practices/rules/rendering-usetransition-loading_zh.md
+.claude/skills/vercel-react-best-practices/rules/rerender-defer-reads.md	.claude/skills/vercel-react-best-practices/rules/rerender-defer-reads_zh.md
+.claude/skills/vercel-react-best-practices/rules/rerender-dependencies.md	.claude/skills/vercel-react-best-practices/rules/rerender-dependencies_zh.md
+.claude/skills/vercel-react-best-practices/rules/rerender-derived-state-no-effect.md	.claude/skills/vercel-react-best-practices/rules/rerender-derived-state-no-effect_zh.md

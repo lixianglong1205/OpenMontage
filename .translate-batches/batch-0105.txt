@@ -1,0 +1,10 @@
+skills/pipelines/explainer/compose-director.md	skills/pipelines/explainer/compose-director_zh.md
+skills/pipelines/explainer/edit-director.md	skills/pipelines/explainer/edit-director_zh.md
+skills/pipelines/explainer/executive-producer.md	skills/pipelines/explainer/executive-producer_zh.md
+skills/pipelines/explainer/idea-director.md	skills/pipelines/explainer/idea-director_zh.md
+skills/pipelines/explainer/proposal-director.md	skills/pipelines/explainer/proposal-director_zh.md
+skills/pipelines/explainer/publish-director.md	skills/pipelines/explainer/publish-director_zh.md
+skills/pipelines/explainer/research-director.md	skills/pipelines/explainer/research-director_zh.md
+skills/pipelines/explainer/scene-director.md	skills/pipelines/explainer/scene-director_zh.md
+skills/pipelines/explainer/script-director.md	skills/pipelines/explainer/script-director_zh.md
+skills/pipelines/hybrid/asset-director.md	skills/pipelines/hybrid/asset-director_zh.md

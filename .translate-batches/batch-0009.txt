@@ -1,0 +1,10 @@
+.agents/skills/heygen/references/assets.md	.agents/skills/heygen/references/assets_zh.md
+.agents/skills/heygen/references/authentication.md	.agents/skills/heygen/references/authentication_zh.md
+.agents/skills/heygen/references/avatars.md	.agents/skills/heygen/references/avatars_zh.md
+.agents/skills/heygen/references/backgrounds.md	.agents/skills/heygen/references/backgrounds_zh.md
+.agents/skills/heygen/references/captions.md	.agents/skills/heygen/references/captions_zh.md
+.agents/skills/heygen/references/dimensions.md	.agents/skills/heygen/references/dimensions_zh.md
+.agents/skills/heygen/references/photo-avatars.md	.agents/skills/heygen/references/photo-avatars_zh.md
+.agents/skills/heygen/references/prompt-examples.md	.agents/skills/heygen/references/prompt-examples_zh.md
+.agents/skills/heygen/references/prompt-optimizer.md	.agents/skills/heygen/references/prompt-optimizer_zh.md
+.agents/skills/heygen/references/quota.md	.agents/skills/heygen/references/quota_zh.md

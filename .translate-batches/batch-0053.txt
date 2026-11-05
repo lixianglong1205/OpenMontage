@@ -1,0 +1,10 @@
+.agents/skills/vercel-react-best-practices/rules/rerender-simple-expression-in-memo.md	.agents/skills/vercel-react-best-practices/rules/rerender-simple-expression-in-memo_zh.md
+.agents/skills/vercel-react-best-practices/rules/rerender-split-combined-hooks.md	.agents/skills/vercel-react-best-practices/rules/rerender-split-combined-hooks_zh.md
+.agents/skills/vercel-react-best-practices/rules/rerender-transitions.md	.agents/skills/vercel-react-best-practices/rules/rerender-transitions_zh.md
+.agents/skills/vercel-react-best-practices/rules/rerender-use-deferred-value.md	.agents/skills/vercel-react-best-practices/rules/rerender-use-deferred-value_zh.md
+.agents/skills/vercel-react-best-practices/rules/rerender-use-ref-transient-values.md	.agents/skills/vercel-react-best-practices/rules/rerender-use-ref-transient-values_zh.md
+.agents/skills/vercel-react-best-practices/rules/server-after-nonblocking.md	.agents/skills/vercel-react-best-practices/rules/server-after-nonblocking_zh.md
+.agents/skills/vercel-react-best-practices/rules/server-auth-actions.md	.agents/skills/vercel-react-best-practices/rules/server-auth-actions_zh.md
+.agents/skills/vercel-react-best-practices/rules/server-cache-lru.md	.agents/skills/vercel-react-best-practices/rules/server-cache-lru_zh.md
+.agents/skills/vercel-react-best-practices/rules/server-cache-react.md	.agents/skills/vercel-react-best-practices/rules/server-cache-react_zh.md
+.agents/skills/vercel-react-best-practices/rules/server-dedup-props.md	.agents/skills/vercel-react-best-practices/rules/server-dedup-props_zh.md

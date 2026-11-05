@@ -1,0 +1,10 @@
+.agents/skills/bfl-api/SKILL.md	.agents/skills/bfl-api/SKILL_zh.md
+.agents/skills/bfl-api/references/api-key-setup.md	.agents/skills/bfl-api/references/api-key-setup_zh.md
+.agents/skills/bfl-api/references/endpoints.md	.agents/skills/bfl-api/references/endpoints_zh.md
+.agents/skills/bfl-api/references/error-handling.md	.agents/skills/bfl-api/references/error-handling_zh.md
+.agents/skills/bfl-api/references/polling-patterns.md	.agents/skills/bfl-api/references/polling-patterns_zh.md
+.agents/skills/bfl-api/references/rate-limiting.md	.agents/skills/bfl-api/references/rate-limiting_zh.md
+.agents/skills/bfl-api/references/webhook-integration.md	.agents/skills/bfl-api/references/webhook-integration_zh.md
+.agents/skills/canvas-procedural-animation/SKILL.md	.agents/skills/canvas-procedural-animation/SKILL_zh.md
+.agents/skills/character-animation-qa/SKILL.md	.agents/skills/character-animation-qa/SKILL_zh.md
+.agents/skills/character-rigging/SKILL.md	.agents/skills/character-rigging/SKILL_zh.md

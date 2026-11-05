@@ -1,0 +1,10 @@
+.agents/skills/threejs-interaction/SKILL.md	.agents/skills/threejs-interaction/SKILL_zh.md
+.agents/skills/threejs-lighting/SKILL.md	.agents/skills/threejs-lighting/SKILL_zh.md
+.agents/skills/threejs-loaders/SKILL.md	.agents/skills/threejs-loaders/SKILL_zh.md
+.agents/skills/threejs-materials/SKILL.md	.agents/skills/threejs-materials/SKILL_zh.md
+.agents/skills/threejs-postprocessing/SKILL.md	.agents/skills/threejs-postprocessing/SKILL_zh.md
+.agents/skills/threejs-shaders/SKILL.md	.agents/skills/threejs-shaders/SKILL_zh.md
+.agents/skills/threejs-textures/SKILL.md	.agents/skills/threejs-textures/SKILL_zh.md
+.agents/skills/threejs-world-generation/SKILL.md	.agents/skills/threejs-world-generation/SKILL_zh.md
+.agents/skills/threejs-world-generation/references/world-spec.md	.agents/skills/threejs-world-generation/references/world-spec_zh.md
+.agents/skills/threejs-world-generation/references/worldclaw-principles.md	.agents/skills/threejs-world-generation/references/worldclaw-principles_zh.md

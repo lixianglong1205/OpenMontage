@@ -1,0 +1,10 @@
+.claude/skills/visual-style/references/connectors/heygen-video-agent.md	.claude/skills/visual-style/references/connectors/heygen-video-agent_zh.md
+.claude/skills/visual-style/references/connectors/html-slides.md	.claude/skills/visual-style/references/connectors/html-slides_zh.md
+.claude/skills/visual-style/references/connectors/paper-design.md	.claude/skills/visual-style/references/connectors/paper-design_zh.md
+.claude/skills/visual-style/references/extractors/from-pdf.md	.claude/skills/visual-style/references/extractors/from-pdf_zh.md
+.claude/skills/visual-style/references/extractors/from-video.md	.claude/skills/visual-style/references/extractors/from-video_zh.md
+.claude/skills/visual-style/references/extractors/from-website.md	.claude/skills/visual-style/references/extractors/from-website_zh.md
+.claude/skills/visual-style/references/gallery/game-boy-color.visual-style.md	.claude/skills/visual-style/references/gallery/game-boy-color.visual-style_zh.md
+.claude/skills/visual-style/references/gallery/heygen-ai-video.visual-style.md	.claude/skills/visual-style/references/gallery/heygen-ai-video.visual-style_zh.md
+.claude/skills/visual-style/references/gallery/mueller-brockmann-swiss.visual-style.md	.claude/skills/visual-style/references/gallery/mueller-brockmann-swiss.visual-style_zh.md
+.claude/skills/visual-style/references/gallery/neville-brody-industrial.visual-style.md	.claude/skills/visual-style/references/gallery/neville-brody-industrial.visual-style_zh.md

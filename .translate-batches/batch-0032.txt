@@ -1,0 +1,10 @@
+.agents/skills/manimgl-best-practices/rules/camera.md	.agents/skills/manimgl-best-practices/rules/camera_zh.md
+.agents/skills/manimgl-best-practices/rules/cli.md	.agents/skills/manimgl-best-practices/rules/cli_zh.md
+.agents/skills/manimgl-best-practices/rules/colors.md	.agents/skills/manimgl-best-practices/rules/colors_zh.md
+.agents/skills/manimgl-best-practices/rules/config.md	.agents/skills/manimgl-best-practices/rules/config_zh.md
+.agents/skills/manimgl-best-practices/rules/creation-animations.md	.agents/skills/manimgl-best-practices/rules/creation-animations_zh.md
+.agents/skills/manimgl-best-practices/rules/embedding.md	.agents/skills/manimgl-best-practices/rules/embedding_zh.md
+.agents/skills/manimgl-best-practices/rules/frame.md	.agents/skills/manimgl-best-practices/rules/frame_zh.md
+.agents/skills/manimgl-best-practices/rules/interactive.md	.agents/skills/manimgl-best-practices/rules/interactive_zh.md
+.agents/skills/manimgl-best-practices/rules/mobjects.md	.agents/skills/manimgl-best-practices/rules/mobjects_zh.md
+.agents/skills/manimgl-best-practices/rules/scenes.md	.agents/skills/manimgl-best-practices/rules/scenes_zh.md

@@ -1,0 +1,10 @@
+.agents/skills/vercel-composition-patterns/rules/state-context-interface.md	.agents/skills/vercel-composition-patterns/rules/state-context-interface_zh.md
+.agents/skills/vercel-composition-patterns/rules/state-decouple-implementation.md	.agents/skills/vercel-composition-patterns/rules/state-decouple-implementation_zh.md
+.agents/skills/vercel-composition-patterns/rules/state-lift-state.md	.agents/skills/vercel-composition-patterns/rules/state-lift-state_zh.md
+.agents/skills/vercel-react-best-practices/AGENTS.md	.agents/skills/vercel-react-best-practices/AGENTS_zh.md
+.agents/skills/vercel-react-best-practices/README.md	.agents/skills/vercel-react-best-practices/README_zh.md
+.agents/skills/vercel-react-best-practices/SKILL.md	.agents/skills/vercel-react-best-practices/SKILL_zh.md
+.agents/skills/vercel-react-best-practices/rules/_sections.md	.agents/skills/vercel-react-best-practices/rules/_sections_zh.md
+.agents/skills/vercel-react-best-practices/rules/_template.md	.agents/skills/vercel-react-best-practices/rules/_template_zh.md
+.agents/skills/vercel-react-best-practices/rules/advanced-event-handler-refs.md	.agents/skills/vercel-react-best-practices/rules/advanced-event-handler-refs_zh.md
+.agents/skills/vercel-react-best-practices/rules/advanced-init-once.md	.agents/skills/vercel-react-best-practices/rules/advanced-init-once_zh.md

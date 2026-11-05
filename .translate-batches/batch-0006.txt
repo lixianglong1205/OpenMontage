@@ -1,0 +1,10 @@
+.agents/skills/ffmpeg/SKILL.md	.agents/skills/ffmpeg/SKILL_zh.md
+.agents/skills/ffmpeg/reference.md	.agents/skills/ffmpeg/reference_zh.md
+.agents/skills/fish-audio-tts/SKILL.md	.agents/skills/fish-audio-tts/SKILL_zh.md
+.agents/skills/flux-best-practices/AGENTS.md	.agents/skills/flux-best-practices/AGENTS_zh.md
+.agents/skills/flux-best-practices/SKILL.md	.agents/skills/flux-best-practices/SKILL_zh.md
+.agents/skills/flux-best-practices/rules/_sections.md	.agents/skills/flux-best-practices/rules/_sections_zh.md
+.agents/skills/flux-best-practices/rules/core-principles.md	.agents/skills/flux-best-practices/rules/core-principles_zh.md
+.agents/skills/flux-best-practices/rules/flux1-models.md	.agents/skills/flux-best-practices/rules/flux1-models_zh.md
+.agents/skills/flux-best-practices/rules/flux2-models.md	.agents/skills/flux-best-practices/rules/flux2-models_zh.md
+.agents/skills/flux-best-practices/rules/hex-color-prompting.md	.agents/skills/flux-best-practices/rules/hex-color-prompting_zh.md

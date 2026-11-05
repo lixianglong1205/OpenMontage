@@ -1,0 +1,10 @@
+.claude/skills/avatar-video/SKILL.md	.claude/skills/avatar-video/SKILL_zh.md
+.claude/skills/avatar-video/references/assets.md	.claude/skills/avatar-video/references/assets_zh.md
+.claude/skills/avatar-video/references/avatars.md	.claude/skills/avatar-video/references/avatars_zh.md
+.claude/skills/avatar-video/references/backgrounds.md	.claude/skills/avatar-video/references/backgrounds_zh.md
+.claude/skills/avatar-video/references/captions.md	.claude/skills/avatar-video/references/captions_zh.md
+.claude/skills/avatar-video/references/dimensions.md	.claude/skills/avatar-video/references/dimensions_zh.md
+.claude/skills/avatar-video/references/photo-avatars.md	.claude/skills/avatar-video/references/photo-avatars_zh.md
+.claude/skills/avatar-video/references/quota.md	.claude/skills/avatar-video/references/quota_zh.md
+.claude/skills/avatar-video/references/remotion-integration.md	.claude/skills/avatar-video/references/remotion-integration_zh.md
+.claude/skills/avatar-video/references/scripts.md	.claude/skills/avatar-video/references/scripts_zh.md

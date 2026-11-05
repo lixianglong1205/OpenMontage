@@ -1,0 +1,10 @@
+.agents/skills/avatar-video/SKILL.md	.agents/skills/avatar-video/SKILL_zh.md
+.agents/skills/avatar-video/references/assets.md	.agents/skills/avatar-video/references/assets_zh.md
+.agents/skills/avatar-video/references/avatars.md	.agents/skills/avatar-video/references/avatars_zh.md
+.agents/skills/avatar-video/references/backgrounds.md	.agents/skills/avatar-video/references/backgrounds_zh.md
+.agents/skills/avatar-video/references/captions.md	.agents/skills/avatar-video/references/captions_zh.md
+.agents/skills/avatar-video/references/dimensions.md	.agents/skills/avatar-video/references/dimensions_zh.md
+.agents/skills/avatar-video/references/photo-avatars.md	.agents/skills/avatar-video/references/photo-avatars_zh.md
+.agents/skills/avatar-video/references/quota.md	.agents/skills/avatar-video/references/quota_zh.md
+.agents/skills/avatar-video/references/remotion-integration.md	.agents/skills/avatar-video/references/remotion-integration_zh.md
+.agents/skills/avatar-video/references/scripts.md	.agents/skills/avatar-video/references/scripts_zh.md

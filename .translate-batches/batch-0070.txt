@@ -1,0 +1,10 @@
+.claude/skills/manimce-best-practices/rules/timing.md	.claude/skills/manimce-best-practices/rules/timing_zh.md
+.claude/skills/manimce-best-practices/rules/transform-animations.md	.claude/skills/manimce-best-practices/rules/transform-animations_zh.md
+.claude/skills/manimce-best-practices/rules/updaters.md	.claude/skills/manimce-best-practices/rules/updaters_zh.md
+.claude/skills/manimgl-best-practices/SKILL.md	.claude/skills/manimgl-best-practices/SKILL_zh.md
+.claude/skills/manimgl-best-practices/references/equation_transforms.md	.claude/skills/manimgl-best-practices/references/equation_transforms_zh.md
+.claude/skills/manimgl-best-practices/references/integration_visualization.md	.claude/skills/manimgl-best-practices/references/integration_visualization_zh.md
+.claude/skills/manimgl-best-practices/references/parallax_starfield.md	.claude/skills/manimgl-best-practices/references/parallax_starfield_zh.md
+.claude/skills/manimgl-best-practices/references/rotating_exponentials.md	.claude/skills/manimgl-best-practices/references/rotating_exponentials_zh.md
+.claude/skills/manimgl-best-practices/references/spring_mass_system.md	.claude/skills/manimgl-best-practices/references/spring_mass_system_zh.md
+.claude/skills/manimgl-best-practices/references/three_d_surfaces.md	.claude/skills/manimgl-best-practices/references/three_d_surfaces_zh.md

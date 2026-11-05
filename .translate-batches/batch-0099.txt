@@ -1,0 +1,10 @@
+skills/meta/onboarding.md	skills/meta/onboarding_zh.md
+skills/meta/reviewer.md	skills/meta/reviewer_zh.md
+skills/meta/skill-creator.md	skills/meta/skill-creator_zh.md
+skills/meta/taste-direction.md	skills/meta/taste-direction_zh.md
+skills/meta/video-reference-analyst.md	skills/meta/video-reference-analyst_zh.md
+skills/meta/voice-performance-director.md	skills/meta/voice-performance-director_zh.md
+skills/pipelines/animation/asset-director.md	skills/pipelines/animation/asset-director_zh.md
+skills/pipelines/animation/compose-director.md	skills/pipelines/animation/compose-director_zh.md
+skills/pipelines/animation/edit-director.md	skills/pipelines/animation/edit-director_zh.md
+skills/pipelines/animation/executive-producer.md	skills/pipelines/animation/executive-producer_zh.md

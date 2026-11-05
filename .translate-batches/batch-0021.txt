@@ -1,0 +1,10 @@
+.agents/skills/hyperframes-core/references/sub-compositions.md	.agents/skills/hyperframes-core/references/sub-compositions_zh.md
+.agents/skills/hyperframes-core/references/subagent-dispatch.md	.agents/skills/hyperframes-core/references/subagent-dispatch_zh.md
+.agents/skills/hyperframes-core/references/tailwind.md	.agents/skills/hyperframes-core/references/tailwind_zh.md
+.agents/skills/hyperframes-core/references/tracks-and-clips.md	.agents/skills/hyperframes-core/references/tracks-and-clips_zh.md
+.agents/skills/hyperframes-core/references/variables-and-media.md	.agents/skills/hyperframes-core/references/variables-and-media_zh.md
+.agents/skills/hyperframes-creative/SKILL.md	.agents/skills/hyperframes-creative/SKILL_zh.md
+.agents/skills/hyperframes-creative/frame-presets/biennale-yellow/FRAME.md	.agents/skills/hyperframes-creative/frame-presets/biennale-yellow/FRAME_zh.md
+.agents/skills/hyperframes-creative/frame-presets/blockframe/FRAME.md	.agents/skills/hyperframes-creative/frame-presets/blockframe/FRAME_zh.md
+.agents/skills/hyperframes-creative/frame-presets/blue-professional/FRAME.md	.agents/skills/hyperframes-creative/frame-presets/blue-professional/FRAME_zh.md
+.agents/skills/hyperframes-creative/frame-presets/bold-poster/FRAME.md	.agents/skills/hyperframes-creative/frame-presets/bold-poster/FRAME_zh.md

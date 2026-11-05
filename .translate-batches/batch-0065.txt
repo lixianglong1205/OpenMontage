@@ -1,0 +1,10 @@
+.claude/skills/framer-motion/SKILL.md	.claude/skills/framer-motion/SKILL_zh.md
+.claude/skills/heygen/SKILL.md	.claude/skills/heygen/SKILL_zh.md
+.claude/skills/heygen/references/assets.md	.claude/skills/heygen/references/assets_zh.md
+.claude/skills/heygen/references/authentication.md	.claude/skills/heygen/references/authentication_zh.md
+.claude/skills/heygen/references/avatars.md	.claude/skills/heygen/references/avatars_zh.md
+.claude/skills/heygen/references/backgrounds.md	.claude/skills/heygen/references/backgrounds_zh.md
+.claude/skills/heygen/references/captions.md	.claude/skills/heygen/references/captions_zh.md
+.claude/skills/heygen/references/dimensions.md	.claude/skills/heygen/references/dimensions_zh.md
+.claude/skills/heygen/references/photo-avatars.md	.claude/skills/heygen/references/photo-avatars_zh.md
+.claude/skills/heygen/references/prompt-examples.md	.claude/skills/heygen/references/prompt-examples_zh.md

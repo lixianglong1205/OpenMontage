@@ -1,0 +1,10 @@
+skills/pipelines/clip-factory/publish-director.md	skills/pipelines/clip-factory/publish-director_zh.md
+skills/pipelines/clip-factory/scene-director.md	skills/pipelines/clip-factory/scene-director_zh.md
+skills/pipelines/clip-factory/script-director.md	skills/pipelines/clip-factory/script-director_zh.md
+skills/pipelines/documentary-montage/asset-director.md	skills/pipelines/documentary-montage/asset-director_zh.md
+skills/pipelines/documentary-montage/compose-director.md	skills/pipelines/documentary-montage/compose-director_zh.md
+skills/pipelines/documentary-montage/edit-director.md	skills/pipelines/documentary-montage/edit-director_zh.md
+skills/pipelines/documentary-montage/executive-producer.md	skills/pipelines/documentary-montage/executive-producer_zh.md
+skills/pipelines/documentary-montage/idea-director.md	skills/pipelines/documentary-montage/idea-director_zh.md
+skills/pipelines/documentary-montage/scene-director.md	skills/pipelines/documentary-montage/scene-director_zh.md
+skills/pipelines/explainer/asset-director.md	skills/pipelines/explainer/asset-director_zh.md

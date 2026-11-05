@@ -1,0 +1,10 @@
+.agents/skills/hyperframes-animation/blueprints-index.md	.agents/skills/hyperframes-animation/blueprints-index_zh.md
+.agents/skills/hyperframes-animation/rules/3d-page-scroll.md	.agents/skills/hyperframes-animation/rules/3d-page-scroll_zh.md
+.agents/skills/hyperframes-animation/rules/3d-text-depth-layers.md	.agents/skills/hyperframes-animation/rules/3d-text-depth-layers_zh.md
+.agents/skills/hyperframes-animation/rules/ai-tracking-box.md	.agents/skills/hyperframes-animation/rules/ai-tracking-box_zh.md
+.agents/skills/hyperframes-animation/rules/ambient-glow-bloom.md	.agents/skills/hyperframes-animation/rules/ambient-glow-bloom_zh.md
+.agents/skills/hyperframes-animation/rules/asr-keyword-glow.md	.agents/skills/hyperframes-animation/rules/asr-keyword-glow_zh.md
+.agents/skills/hyperframes-animation/rules/avatar-cloud-network.md	.agents/skills/hyperframes-animation/rules/avatar-cloud-network_zh.md
+.agents/skills/hyperframes-animation/rules/camera-cursor-tracking.md	.agents/skills/hyperframes-animation/rules/camera-cursor-tracking_zh.md
+.agents/skills/hyperframes-animation/rules/card-morph-anchor.md	.agents/skills/hyperframes-animation/rules/card-morph-anchor_zh.md
+.agents/skills/hyperframes-animation/rules/center-outward-expansion.md	.agents/skills/hyperframes-animation/rules/center-outward-expansion_zh.md

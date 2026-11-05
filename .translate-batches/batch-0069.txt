@@ -1,0 +1,10 @@
+.claude/skills/manimce-best-practices/rules/grouping.md	.claude/skills/manimce-best-practices/rules/grouping_zh.md
+.claude/skills/manimce-best-practices/rules/latex.md	.claude/skills/manimce-best-practices/rules/latex_zh.md
+.claude/skills/manimce-best-practices/rules/lines.md	.claude/skills/manimce-best-practices/rules/lines_zh.md
+.claude/skills/manimce-best-practices/rules/mobjects.md	.claude/skills/manimce-best-practices/rules/mobjects_zh.md
+.claude/skills/manimce-best-practices/rules/positioning.md	.claude/skills/manimce-best-practices/rules/positioning_zh.md
+.claude/skills/manimce-best-practices/rules/scenes.md	.claude/skills/manimce-best-practices/rules/scenes_zh.md
+.claude/skills/manimce-best-practices/rules/shapes.md	.claude/skills/manimce-best-practices/rules/shapes_zh.md
+.claude/skills/manimce-best-practices/rules/styling.md	.claude/skills/manimce-best-practices/rules/styling_zh.md
+.claude/skills/manimce-best-practices/rules/text-animations.md	.claude/skills/manimce-best-practices/rules/text-animations_zh.md
+.claude/skills/manimce-best-practices/rules/text.md	.claude/skills/manimce-best-practices/rules/text_zh.md

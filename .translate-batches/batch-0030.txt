@@ -1,0 +1,10 @@
+.agents/skills/manimce-best-practices/rules/scenes.md	.agents/skills/manimce-best-practices/rules/scenes_zh.md
+.agents/skills/manimce-best-practices/rules/shapes.md	.agents/skills/manimce-best-practices/rules/shapes_zh.md
+.agents/skills/manimce-best-practices/rules/styling.md	.agents/skills/manimce-best-practices/rules/styling_zh.md
+.agents/skills/manimce-best-practices/rules/text-animations.md	.agents/skills/manimce-best-practices/rules/text-animations_zh.md
+.agents/skills/manimce-best-practices/rules/text.md	.agents/skills/manimce-best-practices/rules/text_zh.md
+.agents/skills/manimce-best-practices/rules/timing.md	.agents/skills/manimce-best-practices/rules/timing_zh.md
+.agents/skills/manimce-best-practices/rules/transform-animations.md	.agents/skills/manimce-best-practices/rules/transform-animations_zh.md
+.agents/skills/manimce-best-practices/rules/updaters.md	.agents/skills/manimce-best-practices/rules/updaters_zh.md
+.agents/skills/manimgl-best-practices/SKILL.md	.agents/skills/manimgl-best-practices/SKILL_zh.md
+.agents/skills/manimgl-best-practices/references/equation_transforms.md	.agents/skills/manimgl-best-practices/references/equation_transforms_zh.md

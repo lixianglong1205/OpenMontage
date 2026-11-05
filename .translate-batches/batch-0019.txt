@@ -1,0 +1,10 @@
+.agents/skills/hyperframes-animation/transitions/css-other.md	.agents/skills/hyperframes-animation/transitions/css-other_zh.md
+.agents/skills/hyperframes-animation/transitions/css-push.md	.agents/skills/hyperframes-animation/transitions/css-push_zh.md
+.agents/skills/hyperframes-animation/transitions/css-radial.md	.agents/skills/hyperframes-animation/transitions/css-radial_zh.md
+.agents/skills/hyperframes-animation/transitions/css-scale.md	.agents/skills/hyperframes-animation/transitions/css-scale_zh.md
+.agents/skills/hyperframes-animation/transitions/overview.md	.agents/skills/hyperframes-animation/transitions/overview_zh.md
+.agents/skills/hyperframes-cli/SKILL.md	.agents/skills/hyperframes-cli/SKILL_zh.md
+.agents/skills/hyperframes-cli/references/doctor-browser.md	.agents/skills/hyperframes-cli/references/doctor-browser_zh.md
+.agents/skills/hyperframes-cli/references/init-and-scaffold.md	.agents/skills/hyperframes-cli/references/init-and-scaffold_zh.md
+.agents/skills/hyperframes-cli/references/lambda.md	.agents/skills/hyperframes-cli/references/lambda_zh.md
+.agents/skills/hyperframes-cli/references/lint-validate-inspect.md	.agents/skills/hyperframes-cli/references/lint-validate-inspect_zh.md

@@ -1,0 +1,10 @@
+.agents/skills/remotion-best-practices/rules/transparent-videos.md	.agents/skills/remotion-best-practices/rules/transparent-videos_zh.md
+.agents/skills/remotion-best-practices/rules/trimming.md	.agents/skills/remotion-best-practices/rules/trimming_zh.md
+.agents/skills/remotion-best-practices/rules/videos.md	.agents/skills/remotion-best-practices/rules/videos_zh.md
+.agents/skills/remotion-best-practices/rules/voiceover.md	.agents/skills/remotion-best-practices/rules/voiceover_zh.md
+.agents/skills/remotion-to-hyperframes/SKILL.md	.agents/skills/remotion-to-hyperframes/SKILL_zh.md
+.agents/skills/remotion-to-hyperframes/assets/test-corpus/tier-1-title-card/README.md	.agents/skills/remotion-to-hyperframes/assets/test-corpus/tier-1-title-card/README_zh.md
+.agents/skills/remotion-to-hyperframes/assets/test-corpus/tier-2-multi-scene/README.md	.agents/skills/remotion-to-hyperframes/assets/test-corpus/tier-2-multi-scene/README_zh.md
+.agents/skills/remotion-to-hyperframes/assets/test-corpus/tier-3-data-driven/README.md	.agents/skills/remotion-to-hyperframes/assets/test-corpus/tier-3-data-driven/README_zh.md
+.agents/skills/remotion-to-hyperframes/assets/test-corpus/tier-4-escape-hatch/README.md	.agents/skills/remotion-to-hyperframes/assets/test-corpus/tier-4-escape-hatch/README_zh.md
+.agents/skills/remotion-to-hyperframes/references/api-map.md	.agents/skills/remotion-to-hyperframes/references/api-map_zh.md

@@ -1,0 +1,10 @@
+skills/creative/upscale-usage.md	skills/creative/upscale-usage_zh.md
+skills/creative/video-editing.md	skills/creative/video-editing_zh.md
+skills/creative/video-gen-prompting.md	skills/creative/video-gen-prompting_zh.md
+skills/creative/video-stitching.md	skills/creative/video-stitching_zh.md
+skills/creative/video-understand-usage.md	skills/creative/video-understand-usage_zh.md
+skills/meta/animation-runtime-selector.md	skills/meta/animation-runtime-selector_zh.md
+skills/meta/bespoke-composition.md	skills/meta/bespoke-composition_zh.md
+skills/meta/capability-extension.md	skills/meta/capability-extension_zh.md
+skills/meta/checkpoint-protocol.md	skills/meta/checkpoint-protocol_zh.md
+skills/meta/creative-intake.md	skills/meta/creative-intake_zh.md

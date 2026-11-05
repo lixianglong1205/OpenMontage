@@ -1,0 +1,10 @@
+.agents/skills/music-to-video/SKILL.md	.agents/skills/music-to-video/SKILL_zh.md
+.agents/skills/music-to-video/references/frame-skeleton.md	.agents/skills/music-to-video/references/frame-skeleton_zh.md
+.agents/skills/music-to-video/references/montage.md	.agents/skills/music-to-video/references/montage_zh.md
+.agents/skills/music-to-video/references/motion-primitive-catalog.md	.agents/skills/music-to-video/references/motion-primitive-catalog_zh.md
+.agents/skills/music-to-video/references/motion-primitives/text-spectral-rays/USAGE.md	.agents/skills/music-to-video/references/motion-primitives/text-spectral-rays/USAGE_zh.md
+.agents/skills/music-to-video/references/planning.md	.agents/skills/music-to-video/references/planning_zh.md
+.agents/skills/music-to-video/references/storyboard-format.md	.agents/skills/music-to-video/references/storyboard-format_zh.md
+.agents/skills/music-to-video/references/template-catalog.md	.agents/skills/music-to-video/references/template-catalog_zh.md
+.agents/skills/music-to-video/sub-agents/frame-worker.md	.agents/skills/music-to-video/sub-agents/frame-worker_zh.md
+.agents/skills/playwright-recording/SKILL.md	.agents/skills/playwright-recording/SKILL_zh.md

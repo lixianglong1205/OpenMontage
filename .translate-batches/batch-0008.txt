@@ -1,0 +1,10 @@
+.agents/skills/gsap/README.md	.agents/skills/gsap/README_zh.md
+.agents/skills/gsap-core/SKILL.md	.agents/skills/gsap-core/SKILL_zh.md
+.agents/skills/gsap-frameworks/SKILL.md	.agents/skills/gsap-frameworks/SKILL_zh.md
+.agents/skills/gsap-performance/SKILL.md	.agents/skills/gsap-performance/SKILL_zh.md
+.agents/skills/gsap-plugins/SKILL.md	.agents/skills/gsap-plugins/SKILL_zh.md
+.agents/skills/gsap-react/SKILL.md	.agents/skills/gsap-react/SKILL_zh.md
+.agents/skills/gsap-scrolltrigger/SKILL.md	.agents/skills/gsap-scrolltrigger/SKILL_zh.md
+.agents/skills/gsap-timeline/SKILL.md	.agents/skills/gsap-timeline/SKILL_zh.md
+.agents/skills/gsap-utils/SKILL.md	.agents/skills/gsap-utils/SKILL_zh.md
+.agents/skills/heygen/SKILL.md	.agents/skills/heygen/SKILL_zh.md

@@ -1,0 +1,10 @@
+.claude/skills/remotion-best-practices/rules/assets.md	.claude/skills/remotion-best-practices/rules/assets_zh.md
+.claude/skills/remotion-best-practices/rules/audio-visualization.md	.claude/skills/remotion-best-practices/rules/audio-visualization_zh.md
+.claude/skills/remotion-best-practices/rules/audio.md	.claude/skills/remotion-best-practices/rules/audio_zh.md
+.claude/skills/remotion-best-practices/rules/calculate-metadata.md	.claude/skills/remotion-best-practices/rules/calculate-metadata_zh.md
+.claude/skills/remotion-best-practices/rules/can-decode.md	.claude/skills/remotion-best-practices/rules/can-decode_zh.md
+.claude/skills/remotion-best-practices/rules/charts.md	.claude/skills/remotion-best-practices/rules/charts_zh.md
+.claude/skills/remotion-best-practices/rules/compositions.md	.claude/skills/remotion-best-practices/rules/compositions_zh.md
+.claude/skills/remotion-best-practices/rules/display-captions.md	.claude/skills/remotion-best-practices/rules/display-captions_zh.md
+.claude/skills/remotion-best-practices/rules/extract-frames.md	.claude/skills/remotion-best-practices/rules/extract-frames_zh.md
+.claude/skills/remotion-best-practices/rules/ffmpeg.md	.claude/skills/remotion-best-practices/rules/ffmpeg_zh.md

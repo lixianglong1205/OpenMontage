@@ -1,0 +1,10 @@
+.agents/skills/hyperframes-animation/adapters/html-in-canvas-patterns.md	.agents/skills/hyperframes-animation/adapters/html-in-canvas-patterns_zh.md
+.agents/skills/hyperframes-animation/adapters/lottie.md	.agents/skills/hyperframes-animation/adapters/lottie_zh.md
+.agents/skills/hyperframes-animation/adapters/three.md	.agents/skills/hyperframes-animation/adapters/three_zh.md
+.agents/skills/hyperframes-animation/adapters/typegpu.md	.agents/skills/hyperframes-animation/adapters/typegpu_zh.md
+.agents/skills/hyperframes-animation/adapters/waapi.md	.agents/skills/hyperframes-animation/adapters/waapi_zh.md
+.agents/skills/hyperframes-animation/blueprints/comparison-split.md	.agents/skills/hyperframes-animation/blueprints/comparison-split_zh.md
+.agents/skills/hyperframes-animation/blueprints/constellation-hub.md	.agents/skills/hyperframes-animation/blueprints/constellation-hub_zh.md
+.agents/skills/hyperframes-animation/blueprints/cta-morph-press.md	.agents/skills/hyperframes-animation/blueprints/cta-morph-press_zh.md
+.agents/skills/hyperframes-animation/blueprints/cursor-ui-demo.md	.agents/skills/hyperframes-animation/blueprints/cursor-ui-demo_zh.md
+.agents/skills/hyperframes-animation/blueprints/dataviz-countup.md	.agents/skills/hyperframes-animation/blueprints/dataviz-countup_zh.md

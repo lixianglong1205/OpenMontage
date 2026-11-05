@@ -1,0 +1,10 @@
+.agents/skills/playwright-recording/reference.md	.agents/skills/playwright-recording/reference_zh.md
+.agents/skills/pose-library-design/SKILL.md	.agents/skills/pose-library-design/SKILL_zh.md
+.agents/skills/provider-model-refresh/SKILL.md	.agents/skills/provider-model-refresh/SKILL_zh.md
+.agents/skills/provider-refresh-oct23/SKILL.md	.agents/skills/provider-refresh-oct23/SKILL_zh.md
+.agents/skills/remotion/SKILL.md	.agents/skills/remotion/SKILL_zh.md
+.agents/skills/remotion/reference.md	.agents/skills/remotion/reference_zh.md
+.agents/skills/remotion-best-practices/SKILL.md	.agents/skills/remotion-best-practices/SKILL_zh.md
+.agents/skills/remotion-best-practices/rules/3d.md	.agents/skills/remotion-best-practices/rules/3d_zh.md
+.agents/skills/remotion-best-practices/rules/animations.md	.agents/skills/remotion-best-practices/rules/animations_zh.md
+.agents/skills/remotion-best-practices/rules/assets.md	.agents/skills/remotion-best-practices/rules/assets_zh.md

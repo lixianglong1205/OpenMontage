@@ -1,0 +1,10 @@
+.agents/skills/hyperframes-creative/references/composition-patterns.md	.agents/skills/hyperframes-creative/references/composition-patterns_zh.md
+.agents/skills/hyperframes-creative/references/data-in-motion.md	.agents/skills/hyperframes-creative/references/data-in-motion_zh.md
+.agents/skills/hyperframes-creative/references/design-adherence.md	.agents/skills/hyperframes-creative/references/design-adherence_zh.md
+.agents/skills/hyperframes-creative/references/design-picker.md	.agents/skills/hyperframes-creative/references/design-picker_zh.md
+.agents/skills/hyperframes-creative/references/design-spec.md	.agents/skills/hyperframes-creative/references/design-spec_zh.md
+.agents/skills/hyperframes-creative/references/house-style.md	.agents/skills/hyperframes-creative/references/house-style_zh.md
+.agents/skills/hyperframes-creative/references/motion-principles.md	.agents/skills/hyperframes-creative/references/motion-principles_zh.md
+.agents/skills/hyperframes-creative/references/narration.md	.agents/skills/hyperframes-creative/references/narration_zh.md
+.agents/skills/hyperframes-creative/references/prompt-expansion.md	.agents/skills/hyperframes-creative/references/prompt-expansion_zh.md
+.agents/skills/hyperframes-creative/references/typography.md	.agents/skills/hyperframes-creative/references/typography_zh.md

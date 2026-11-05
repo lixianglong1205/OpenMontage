@@ -1,0 +1,10 @@
+.cursor/commands/backlot.md	.cursor/commands/backlot_zh.md
+.cursor/commands/ink-art.md	.cursor/commands/ink-art_zh.md
+.github/PULL_REQUEST_TEMPLATE.md	.github/PULL_REQUEST_TEMPLATE_zh.md
+.github/copilot-instructions.md	.github/copilot-instructions_zh.md
+.github/prompts/animated-drawing.prompt.md	.github/prompts/animated-drawing.prompt_zh.md
+.github/prompts/backlot.prompt.md	.github/prompts/backlot.prompt_zh.md
+.github/prompts/ink-art.prompt.md	.github/prompts/ink-art.prompt_zh.md
+AGENTS.md	AGENTS_zh.md
+AGENT_GUIDE.md	AGENT_GUIDE_zh.md
+CLAUDE.md	CLAUDE_zh.md

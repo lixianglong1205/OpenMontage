@@ -1,0 +1,10 @@
+skills/pipelines/localization-dub/executive-producer.md	skills/pipelines/localization-dub/executive-producer_zh.md
+skills/pipelines/localization-dub/idea-director.md	skills/pipelines/localization-dub/idea-director_zh.md
+skills/pipelines/localization-dub/publish-director.md	skills/pipelines/localization-dub/publish-director_zh.md
+skills/pipelines/localization-dub/scene-director.md	skills/pipelines/localization-dub/scene-director_zh.md
+skills/pipelines/localization-dub/script-director.md	skills/pipelines/localization-dub/script-director_zh.md
+skills/pipelines/podcast-repurpose/asset-director.md	skills/pipelines/podcast-repurpose/asset-director_zh.md
+skills/pipelines/podcast-repurpose/compose-director.md	skills/pipelines/podcast-repurpose/compose-director_zh.md
+skills/pipelines/podcast-repurpose/edit-director.md	skills/pipelines/podcast-repurpose/edit-director_zh.md
+skills/pipelines/podcast-repurpose/executive-producer.md	skills/pipelines/podcast-repurpose/executive-producer_zh.md
+skills/pipelines/podcast-repurpose/idea-director.md	skills/pipelines/podcast-repurpose/idea-director_zh.md

@@ -1,0 +1,10 @@
+.claude/commands/backlot.md	.claude/commands/backlot_zh.md
+.claude/commands/ink-art.md	.claude/commands/ink-art_zh.md
+.claude/skills/acestep/SKILL.md	.claude/skills/acestep/SKILL_zh.md
+.claude/skills/agents/SKILL.md	.claude/skills/agents/SKILL_zh.md
+.claude/skills/agents/references/agent-configuration.md	.claude/skills/agents/references/agent-configuration_zh.md
+.claude/skills/agents/references/client-tools.md	.claude/skills/agents/references/client-tools_zh.md
+.claude/skills/agents/references/installation.md	.claude/skills/agents/references/installation_zh.md
+.claude/skills/agents/references/outbound-calls.md	.claude/skills/agents/references/outbound-calls_zh.md
+.claude/skills/agents/references/widget-embedding.md	.claude/skills/agents/references/widget-embedding_zh.md
+.claude/skills/ai-video-gen/SKILL.md	.claude/skills/ai-video-gen/SKILL_zh.md

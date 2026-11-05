@@ -1,0 +1,10 @@
+.claude/skills/remotion-best-practices/rules/fonts.md	.claude/skills/remotion-best-practices/rules/fonts_zh.md
+.claude/skills/remotion-best-practices/rules/get-audio-duration.md	.claude/skills/remotion-best-practices/rules/get-audio-duration_zh.md
+.claude/skills/remotion-best-practices/rules/get-video-dimensions.md	.claude/skills/remotion-best-practices/rules/get-video-dimensions_zh.md
+.claude/skills/remotion-best-practices/rules/get-video-duration.md	.claude/skills/remotion-best-practices/rules/get-video-duration_zh.md
+.claude/skills/remotion-best-practices/rules/gifs.md	.claude/skills/remotion-best-practices/rules/gifs_zh.md
+.claude/skills/remotion-best-practices/rules/images.md	.claude/skills/remotion-best-practices/rules/images_zh.md
+.claude/skills/remotion-best-practices/rules/import-srt-captions.md	.claude/skills/remotion-best-practices/rules/import-srt-captions_zh.md
+.claude/skills/remotion-best-practices/rules/light-leaks.md	.claude/skills/remotion-best-practices/rules/light-leaks_zh.md
+.claude/skills/remotion-best-practices/rules/lottie.md	.claude/skills/remotion-best-practices/rules/lottie_zh.md
+.claude/skills/remotion-best-practices/rules/maps.md	.claude/skills/remotion-best-practices/rules/maps_zh.md

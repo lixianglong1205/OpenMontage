@@ -1,0 +1,10 @@
+.agents/skills/hyperframes-animation/rules/context-sensitive-cursor.md	.agents/skills/hyperframes-animation/rules/context-sensitive-cursor_zh.md
+.agents/skills/hyperframes-animation/rules/coordinate-target-zoom.md	.agents/skills/hyperframes-animation/rules/coordinate-target-zoom_zh.md
+.agents/skills/hyperframes-animation/rules/counting-dynamic-scale.md	.agents/skills/hyperframes-animation/rules/counting-dynamic-scale_zh.md
+.agents/skills/hyperframes-animation/rules/css-marker-patterns.md	.agents/skills/hyperframes-animation/rules/css-marker-patterns_zh.md
+.agents/skills/hyperframes-animation/rules/cursor-click-ripple.md	.agents/skills/hyperframes-animation/rules/cursor-click-ripple_zh.md
+.agents/skills/hyperframes-animation/rules/depth-of-field-blur.md	.agents/skills/hyperframes-animation/rules/depth-of-field-blur_zh.md
+.agents/skills/hyperframes-animation/rules/depth-scatter-assemble.md	.agents/skills/hyperframes-animation/rules/depth-scatter-assemble_zh.md
+.agents/skills/hyperframes-animation/rules/discrete-text-sequence.md	.agents/skills/hyperframes-animation/rules/discrete-text-sequence_zh.md
+.agents/skills/hyperframes-animation/rules/dynamic-content-sequencing.md	.agents/skills/hyperframes-animation/rules/dynamic-content-sequencing_zh.md
+.agents/skills/hyperframes-animation/rules/gsap-effects.md	.agents/skills/hyperframes-animation/rules/gsap-effects_zh.md

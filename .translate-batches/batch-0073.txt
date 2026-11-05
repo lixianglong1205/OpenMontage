@@ -1,0 +1,10 @@
+.claude/skills/music/SKILL.md	.claude/skills/music/SKILL_zh.md
+.claude/skills/music/references/api_reference.md	.claude/skills/music/references/api_reference_zh.md
+.claude/skills/music/references/installation.md	.claude/skills/music/references/installation_zh.md
+.claude/skills/playwright-recording/SKILL.md	.claude/skills/playwright-recording/SKILL_zh.md
+.claude/skills/playwright-recording/reference.md	.claude/skills/playwright-recording/reference_zh.md
+.claude/skills/remotion/SKILL.md	.claude/skills/remotion/SKILL_zh.md
+.claude/skills/remotion/reference.md	.claude/skills/remotion/reference_zh.md
+.claude/skills/remotion-best-practices/SKILL.md	.claude/skills/remotion-best-practices/SKILL_zh.md
+.claude/skills/remotion-best-practices/rules/3d.md	.claude/skills/remotion-best-practices/rules/3d_zh.md
+.claude/skills/remotion-best-practices/rules/animations.md	.claude/skills/remotion-best-practices/rules/animations_zh.md

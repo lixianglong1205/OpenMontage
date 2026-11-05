@@ -1,0 +1,10 @@
+.claude/skills/create-video/references/prompt-examples.md	.claude/skills/create-video/references/prompt-examples_zh.md
+.claude/skills/create-video/references/prompt-optimizer.md	.claude/skills/create-video/references/prompt-optimizer_zh.md
+.claude/skills/create-video/references/quota.md	.claude/skills/create-video/references/quota_zh.md
+.claude/skills/create-video/references/video-agent.md	.claude/skills/create-video/references/video-agent_zh.md
+.claude/skills/create-video/references/video-status.md	.claude/skills/create-video/references/video-status_zh.md
+.claude/skills/create-video/references/visual-styles.md	.claude/skills/create-video/references/visual-styles_zh.md
+.claude/skills/create-video/references/webhooks.md	.claude/skills/create-video/references/webhooks_zh.md
+.claude/skills/d3-viz/SKILL.md	.claude/skills/d3-viz/SKILL_zh.md
+.claude/skills/d3-viz/references/colour-schemes.md	.claude/skills/d3-viz/references/colour-schemes_zh.md
+.claude/skills/d3-viz/references/d3-patterns.md	.claude/skills/d3-viz/references/d3-patterns_zh.md

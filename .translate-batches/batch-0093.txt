@@ -1,0 +1,10 @@
+docs/PR_REVIEW_GUIDE.md	docs/PR_REVIEW_GUIDE_zh.md
+docs/SPONSORS.md	docs/SPONSORS_zh.md
+docs/apple-silicon-mps.md	docs/apple-silicon-mps_zh.md
+docs/bgm-montage-lite.md	docs/bgm-montage-lite_zh.md
+docs/comfyui-adapter-plan.md	docs/comfyui-adapter-plan_zh.md
+docs/provider-refresh-2026-10-23.md	docs/provider-refresh-2026-10-23_zh.md
+docs/provider-update-plan-2026-10-03.md	docs/provider-update-plan-2026-10-03_zh.md
+ink-theater/README.md	ink-theater/README_zh.md
+ink-theater/THIRD_PARTY_NOTICES.md	ink-theater/THIRD_PARTY_NOTICES_zh.md
+ink-theater/examples/README.md	ink-theater/examples/README_zh.md

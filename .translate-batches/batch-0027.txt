@@ -1,0 +1,10 @@
+.agents/skills/hyperframes-registry/references/install-locations.md	.agents/skills/hyperframes-registry/references/install-locations_zh.md
+.agents/skills/hyperframes-registry/references/templates.md	.agents/skills/hyperframes-registry/references/templates_zh.md
+.agents/skills/hyperframes-registry/references/wiring-blocks.md	.agents/skills/hyperframes-registry/references/wiring-blocks_zh.md
+.agents/skills/hyperframes-registry/references/wiring-components.md	.agents/skills/hyperframes-registry/references/wiring-components_zh.md
+.agents/skills/kling-official/SKILL.md	.agents/skills/kling-official/SKILL_zh.md
+.agents/skills/lottie-bodymovin/SKILL.md	.agents/skills/lottie-bodymovin/SKILL_zh.md
+.agents/skills/ltx2/SKILL.md	.agents/skills/ltx2/SKILL_zh.md
+.agents/skills/lyria/SKILL.md	.agents/skills/lyria/SKILL_zh.md
+.agents/skills/lyria/references/api-and-prompting.md	.agents/skills/lyria/references/api-and-prompting_zh.md
+.agents/skills/manim-composer/SKILL.md	.agents/skills/manim-composer/SKILL_zh.md

@@ -1,0 +1,10 @@
+.agents/skills/hyperframes-cli/references/preview-render.md	.agents/skills/hyperframes-cli/references/preview-render_zh.md
+.agents/skills/hyperframes-cli/references/upgrade-info-misc.md	.agents/skills/hyperframes-cli/references/upgrade-info-misc_zh.md
+.agents/skills/hyperframes-core/SKILL.md	.agents/skills/hyperframes-core/SKILL_zh.md
+.agents/skills/hyperframes-core/references/composition-patterns.md	.agents/skills/hyperframes-core/references/composition-patterns_zh.md
+.agents/skills/hyperframes-core/references/data-attributes.md	.agents/skills/hyperframes-core/references/data-attributes_zh.md
+.agents/skills/hyperframes-core/references/determinism-rules.md	.agents/skills/hyperframes-core/references/determinism-rules_zh.md
+.agents/skills/hyperframes-core/references/full-screen-motion.md	.agents/skills/hyperframes-core/references/full-screen-motion_zh.md
+.agents/skills/hyperframes-core/references/minimal-composition.md	.agents/skills/hyperframes-core/references/minimal-composition_zh.md
+.agents/skills/hyperframes-core/references/script-format.md	.agents/skills/hyperframes-core/references/script-format_zh.md
+.agents/skills/hyperframes-core/references/storyboard-format.md	.agents/skills/hyperframes-core/references/storyboard-format_zh.md

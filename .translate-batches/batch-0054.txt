@@ -1,0 +1,10 @@
+.agents/skills/vercel-react-best-practices/rules/server-hoist-static-io.md	.agents/skills/vercel-react-best-practices/rules/server-hoist-static-io_zh.md
+.agents/skills/vercel-react-best-practices/rules/server-parallel-fetching.md	.agents/skills/vercel-react-best-practices/rules/server-parallel-fetching_zh.md
+.agents/skills/vercel-react-best-practices/rules/server-parallel-nested-fetching.md	.agents/skills/vercel-react-best-practices/rules/server-parallel-nested-fetching_zh.md
+.agents/skills/vercel-react-best-practices/rules/server-serialization.md	.agents/skills/vercel-react-best-practices/rules/server-serialization_zh.md
+.agents/skills/video-download/SKILL.md	.agents/skills/video-download/SKILL_zh.md
+.agents/skills/video-edit/SKILL.md	.agents/skills/video-edit/SKILL_zh.md
+.agents/skills/video-edit/references/operations.md	.agents/skills/video-edit/references/operations_zh.md
+.agents/skills/video-toolkit/SKILL.md	.agents/skills/video-toolkit/SKILL_zh.md
+.agents/skills/video-translate/SKILL.md	.agents/skills/video-translate/SKILL_zh.md
+.agents/skills/video-understand/SKILL.md	.agents/skills/video-understand/SKILL_zh.md

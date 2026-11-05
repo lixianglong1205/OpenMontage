@@ -1,0 +1,10 @@
+.claude/skills/vercel-react-best-practices/rules/rerender-use-deferred-value.md	.claude/skills/vercel-react-best-practices/rules/rerender-use-deferred-value_zh.md
+.claude/skills/vercel-react-best-practices/rules/rerender-use-ref-transient-values.md	.claude/skills/vercel-react-best-practices/rules/rerender-use-ref-transient-values_zh.md
+.claude/skills/vercel-react-best-practices/rules/server-after-nonblocking.md	.claude/skills/vercel-react-best-practices/rules/server-after-nonblocking_zh.md
+.claude/skills/vercel-react-best-practices/rules/server-auth-actions.md	.claude/skills/vercel-react-best-practices/rules/server-auth-actions_zh.md
+.claude/skills/vercel-react-best-practices/rules/server-cache-lru.md	.claude/skills/vercel-react-best-practices/rules/server-cache-lru_zh.md
+.claude/skills/vercel-react-best-practices/rules/server-cache-react.md	.claude/skills/vercel-react-best-practices/rules/server-cache-react_zh.md
+.claude/skills/vercel-react-best-practices/rules/server-dedup-props.md	.claude/skills/vercel-react-best-practices/rules/server-dedup-props_zh.md
+.claude/skills/vercel-react-best-practices/rules/server-hoist-static-io.md	.claude/skills/vercel-react-best-practices/rules/server-hoist-static-io_zh.md
+.claude/skills/vercel-react-best-practices/rules/server-parallel-fetching.md	.claude/skills/vercel-react-best-practices/rules/server-parallel-fetching_zh.md
+.claude/skills/vercel-react-best-practices/rules/server-parallel-nested-fetching.md	.claude/skills/vercel-react-best-practices/rules/server-parallel-nested-fetching_zh.md

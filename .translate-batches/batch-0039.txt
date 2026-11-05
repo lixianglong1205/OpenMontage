@@ -1,0 +1,10 @@
+.agents/skills/remotion-best-practices/rules/get-audio-duration.md	.agents/skills/remotion-best-practices/rules/get-audio-duration_zh.md
+.agents/skills/remotion-best-practices/rules/get-video-dimensions.md	.agents/skills/remotion-best-practices/rules/get-video-dimensions_zh.md
+.agents/skills/remotion-best-practices/rules/get-video-duration.md	.agents/skills/remotion-best-practices/rules/get-video-duration_zh.md
+.agents/skills/remotion-best-practices/rules/gifs.md	.agents/skills/remotion-best-practices/rules/gifs_zh.md
+.agents/skills/remotion-best-practices/rules/images.md	.agents/skills/remotion-best-practices/rules/images_zh.md
+.agents/skills/remotion-best-practices/rules/import-srt-captions.md	.agents/skills/remotion-best-practices/rules/import-srt-captions_zh.md
+.agents/skills/remotion-best-practices/rules/light-leaks.md	.agents/skills/remotion-best-practices/rules/light-leaks_zh.md
+.agents/skills/remotion-best-practices/rules/lottie.md	.agents/skills/remotion-best-practices/rules/lottie_zh.md
+.agents/skills/remotion-best-practices/rules/maps.md	.agents/skills/remotion-best-practices/rules/maps_zh.md
+.agents/skills/remotion-best-practices/rules/measuring-dom-nodes.md	.agents/skills/remotion-best-practices/rules/measuring-dom-nodes_zh.md

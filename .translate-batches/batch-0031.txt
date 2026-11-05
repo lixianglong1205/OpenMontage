@@ -1,0 +1,10 @@
+.agents/skills/manimgl-best-practices/references/integration_visualization.md	.agents/skills/manimgl-best-practices/references/integration_visualization_zh.md
+.agents/skills/manimgl-best-practices/references/parallax_starfield.md	.agents/skills/manimgl-best-practices/references/parallax_starfield_zh.md
+.agents/skills/manimgl-best-practices/references/rotating_exponentials.md	.agents/skills/manimgl-best-practices/references/rotating_exponentials_zh.md
+.agents/skills/manimgl-best-practices/references/spring_mass_system.md	.agents/skills/manimgl-best-practices/references/spring_mass_system_zh.md
+.agents/skills/manimgl-best-practices/references/three_d_surfaces.md	.agents/skills/manimgl-best-practices/references/three_d_surfaces_zh.md
+.agents/skills/manimgl-best-practices/references/transit_animation.md	.agents/skills/manimgl-best-practices/references/transit_animation_zh.md
+.agents/skills/manimgl-best-practices/references/vector_fields.md	.agents/skills/manimgl-best-practices/references/vector_fields_zh.md
+.agents/skills/manimgl-best-practices/rules/3d.md	.agents/skills/manimgl-best-practices/rules/3d_zh.md
+.agents/skills/manimgl-best-practices/rules/animation-groups.md	.agents/skills/manimgl-best-practices/rules/animation-groups_zh.md
+.agents/skills/manimgl-best-practices/rules/animations.md	.agents/skills/manimgl-best-practices/rules/animations_zh.md

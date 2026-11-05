@@ -1,0 +1,10 @@
+.agents/skills/vercel-react-best-practices/rules/advanced-use-latest.md	.agents/skills/vercel-react-best-practices/rules/advanced-use-latest_zh.md
+.agents/skills/vercel-react-best-practices/rules/async-api-routes.md	.agents/skills/vercel-react-best-practices/rules/async-api-routes_zh.md
+.agents/skills/vercel-react-best-practices/rules/async-defer-await.md	.agents/skills/vercel-react-best-practices/rules/async-defer-await_zh.md
+.agents/skills/vercel-react-best-practices/rules/async-dependencies.md	.agents/skills/vercel-react-best-practices/rules/async-dependencies_zh.md
+.agents/skills/vercel-react-best-practices/rules/async-parallel.md	.agents/skills/vercel-react-best-practices/rules/async-parallel_zh.md
+.agents/skills/vercel-react-best-practices/rules/async-suspense-boundaries.md	.agents/skills/vercel-react-best-practices/rules/async-suspense-boundaries_zh.md
+.agents/skills/vercel-react-best-practices/rules/bundle-barrel-imports.md	.agents/skills/vercel-react-best-practices/rules/bundle-barrel-imports_zh.md
+.agents/skills/vercel-react-best-practices/rules/bundle-conditional.md	.agents/skills/vercel-react-best-practices/rules/bundle-conditional_zh.md
+.agents/skills/vercel-react-best-practices/rules/bundle-defer-third-party.md	.agents/skills/vercel-react-best-practices/rules/bundle-defer-third-party_zh.md
+.agents/skills/vercel-react-best-practices/rules/bundle-dynamic-imports.md	.agents/skills/vercel-react-best-practices/rules/bundle-dynamic-imports_zh.md

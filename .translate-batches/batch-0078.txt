@@ -1,0 +1,10 @@
+.claude/skills/speech-to-text/references/realtime-client-side.md	.claude/skills/speech-to-text/references/realtime-client-side_zh.md
+.claude/skills/speech-to-text/references/realtime-commit-strategies.md	.claude/skills/speech-to-text/references/realtime-commit-strategies_zh.md
+.claude/skills/speech-to-text/references/realtime-events.md	.claude/skills/speech-to-text/references/realtime-events_zh.md
+.claude/skills/speech-to-text/references/realtime-server-side.md	.claude/skills/speech-to-text/references/realtime-server-side_zh.md
+.claude/skills/speech-to-text/references/transcription-options.md	.claude/skills/speech-to-text/references/transcription-options_zh.md
+.claude/skills/tailwind-design-system/SKILL.md	.claude/skills/tailwind-design-system/SKILL_zh.md
+.claude/skills/text-to-speech/SKILL.md	.claude/skills/text-to-speech/SKILL_zh.md
+.claude/skills/threejs-animation/SKILL.md	.claude/skills/threejs-animation/SKILL_zh.md
+.claude/skills/threejs-fundamentals/SKILL.md	.claude/skills/threejs-fundamentals/SKILL_zh.md
+.claude/skills/threejs-geometry/SKILL.md	.claude/skills/threejs-geometry/SKILL_zh.md

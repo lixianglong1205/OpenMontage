@@ -1,0 +1,10 @@
+.agents/skills/video-understand/references/output-format.md	.agents/skills/video-understand/references/output-format_zh.md
+.agents/skills/visual-style/SKILL.md	.agents/skills/visual-style/SKILL_zh.md
+.agents/skills/visual-style/references/connectors/figma.md	.agents/skills/visual-style/references/connectors/figma_zh.md
+.agents/skills/visual-style/references/connectors/heygen-video-agent.md	.agents/skills/visual-style/references/connectors/heygen-video-agent_zh.md
+.agents/skills/visual-style/references/connectors/html-slides.md	.agents/skills/visual-style/references/connectors/html-slides_zh.md
+.agents/skills/visual-style/references/connectors/paper-design.md	.agents/skills/visual-style/references/connectors/paper-design_zh.md
+.agents/skills/visual-style/references/extractors/from-pdf.md	.agents/skills/visual-style/references/extractors/from-pdf_zh.md
+.agents/skills/visual-style/references/extractors/from-video.md	.agents/skills/visual-style/references/extractors/from-video_zh.md
+.agents/skills/visual-style/references/extractors/from-website.md	.agents/skills/visual-style/references/extractors/from-website_zh.md
+.agents/skills/visual-style/references/gallery/game-boy-color.visual-style.md	.agents/skills/visual-style/references/gallery/game-boy-color.visual-style_zh.md

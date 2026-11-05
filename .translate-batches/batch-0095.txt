@@ -1,0 +1,10 @@
+skills/creative/animated-drawing.md	skills/creative/animated-drawing_zh.md
+skills/creative/animation-pipeline.md	skills/creative/animation-pipeline_zh.md
+skills/creative/bg-remove-usage.md	skills/creative/bg-remove-usage_zh.md
+skills/creative/broll-planning.md	skills/creative/broll-planning_zh.md
+skills/creative/cinematic.md	skills/creative/cinematic_zh.md
+skills/creative/data-visualization.md	skills/creative/data-visualization_zh.md
+skills/creative/diagram-gen-usage.md	skills/creative/diagram-gen-usage_zh.md
+skills/creative/enhancement-strategy.md	skills/creative/enhancement-strategy_zh.md
+skills/creative/face-restore-usage.md	skills/creative/face-restore-usage_zh.md
+skills/creative/image-gen-usage.md	skills/creative/image-gen-usage_zh.md

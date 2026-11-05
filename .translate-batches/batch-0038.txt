@@ -1,0 +1,10 @@
+.agents/skills/remotion-best-practices/rules/audio-visualization.md	.agents/skills/remotion-best-practices/rules/audio-visualization_zh.md
+.agents/skills/remotion-best-practices/rules/audio.md	.agents/skills/remotion-best-practices/rules/audio_zh.md
+.agents/skills/remotion-best-practices/rules/calculate-metadata.md	.agents/skills/remotion-best-practices/rules/calculate-metadata_zh.md
+.agents/skills/remotion-best-practices/rules/can-decode.md	.agents/skills/remotion-best-practices/rules/can-decode_zh.md
+.agents/skills/remotion-best-practices/rules/charts.md	.agents/skills/remotion-best-practices/rules/charts_zh.md
+.agents/skills/remotion-best-practices/rules/compositions.md	.agents/skills/remotion-best-practices/rules/compositions_zh.md
+.agents/skills/remotion-best-practices/rules/display-captions.md	.agents/skills/remotion-best-practices/rules/display-captions_zh.md
+.agents/skills/remotion-best-practices/rules/extract-frames.md	.agents/skills/remotion-best-practices/rules/extract-frames_zh.md
+.agents/skills/remotion-best-practices/rules/ffmpeg.md	.agents/skills/remotion-best-practices/rules/ffmpeg_zh.md
+.agents/skills/remotion-best-practices/rules/fonts.md	.agents/skills/remotion-best-practices/rules/fonts_zh.md

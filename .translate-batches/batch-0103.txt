@@ -1,0 +1,10 @@
+skills/pipelines/cinematic/proposal-director.md	skills/pipelines/cinematic/proposal-director_zh.md
+skills/pipelines/cinematic/publish-director.md	skills/pipelines/cinematic/publish-director_zh.md
+skills/pipelines/cinematic/research-director.md	skills/pipelines/cinematic/research-director_zh.md
+skills/pipelines/cinematic/scene-director.md	skills/pipelines/cinematic/scene-director_zh.md
+skills/pipelines/cinematic/script-director.md	skills/pipelines/cinematic/script-director_zh.md
+skills/pipelines/clip-factory/asset-director.md	skills/pipelines/clip-factory/asset-director_zh.md
+skills/pipelines/clip-factory/compose-director.md	skills/pipelines/clip-factory/compose-director_zh.md
+skills/pipelines/clip-factory/edit-director.md	skills/pipelines/clip-factory/edit-director_zh.md
+skills/pipelines/clip-factory/executive-producer.md	skills/pipelines/clip-factory/executive-producer_zh.md
+skills/pipelines/clip-factory/idea-director.md	skills/pipelines/clip-factory/idea-director_zh.md

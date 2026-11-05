@@ -1,0 +1,10 @@
+.claude/skills/manimgl-best-practices/references/transit_animation.md	.claude/skills/manimgl-best-practices/references/transit_animation_zh.md
+.claude/skills/manimgl-best-practices/references/vector_fields.md	.claude/skills/manimgl-best-practices/references/vector_fields_zh.md
+.claude/skills/manimgl-best-practices/rules/3d.md	.claude/skills/manimgl-best-practices/rules/3d_zh.md
+.claude/skills/manimgl-best-practices/rules/animation-groups.md	.claude/skills/manimgl-best-practices/rules/animation-groups_zh.md
+.claude/skills/manimgl-best-practices/rules/animations.md	.claude/skills/manimgl-best-practices/rules/animations_zh.md
+.claude/skills/manimgl-best-practices/rules/camera.md	.claude/skills/manimgl-best-practices/rules/camera_zh.md
+.claude/skills/manimgl-best-practices/rules/cli.md	.claude/skills/manimgl-best-practices/rules/cli_zh.md
+.claude/skills/manimgl-best-practices/rules/colors.md	.claude/skills/manimgl-best-practices/rules/colors_zh.md
+.claude/skills/manimgl-best-practices/rules/config.md	.claude/skills/manimgl-best-practices/rules/config_zh.md
+.claude/skills/manimgl-best-practices/rules/creation-animations.md	.claude/skills/manimgl-best-practices/rules/creation-animations_zh.md

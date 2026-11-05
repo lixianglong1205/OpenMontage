@@ -1,0 +1,10 @@
+.agents/skills/manimce-best-practices/rules/cli.md	.agents/skills/manimce-best-practices/rules/cli_zh.md
+.agents/skills/manimce-best-practices/rules/colors.md	.agents/skills/manimce-best-practices/rules/colors_zh.md
+.agents/skills/manimce-best-practices/rules/config.md	.agents/skills/manimce-best-practices/rules/config_zh.md
+.agents/skills/manimce-best-practices/rules/creation-animations.md	.agents/skills/manimce-best-practices/rules/creation-animations_zh.md
+.agents/skills/manimce-best-practices/rules/graphing.md	.agents/skills/manimce-best-practices/rules/graphing_zh.md
+.agents/skills/manimce-best-practices/rules/grouping.md	.agents/skills/manimce-best-practices/rules/grouping_zh.md
+.agents/skills/manimce-best-practices/rules/latex.md	.agents/skills/manimce-best-practices/rules/latex_zh.md
+.agents/skills/manimce-best-practices/rules/lines.md	.agents/skills/manimce-best-practices/rules/lines_zh.md
+.agents/skills/manimce-best-practices/rules/mobjects.md	.agents/skills/manimce-best-practices/rules/mobjects_zh.md
+.agents/skills/manimce-best-practices/rules/positioning.md	.agents/skills/manimce-best-practices/rules/positioning_zh.md

@@ -1,0 +1,10 @@
+.claude/skills/remotion-best-practices/rules/transitions.md	.claude/skills/remotion-best-practices/rules/transitions_zh.md
+.claude/skills/remotion-best-practices/rules/transparent-videos.md	.claude/skills/remotion-best-practices/rules/transparent-videos_zh.md
+.claude/skills/remotion-best-practices/rules/trimming.md	.claude/skills/remotion-best-practices/rules/trimming_zh.md
+.claude/skills/remotion-best-practices/rules/videos.md	.claude/skills/remotion-best-practices/rules/videos_zh.md
+.claude/skills/remotion-best-practices/rules/voiceover.md	.claude/skills/remotion-best-practices/rules/voiceover_zh.md
+.claude/skills/setup-api-key/SKILL.md	.claude/skills/setup-api-key/SKILL_zh.md
+.claude/skills/sound-effects/SKILL.md	.claude/skills/sound-effects/SKILL_zh.md
+.claude/skills/sound-effects/references/installation.md	.claude/skills/sound-effects/references/installation_zh.md
+.claude/skills/speech-to-text/SKILL.md	.claude/skills/speech-to-text/SKILL_zh.md
+.claude/skills/speech-to-text/references/installation.md	.claude/skills/speech-to-text/references/installation_zh.md

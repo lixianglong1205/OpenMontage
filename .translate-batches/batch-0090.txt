@@ -1,0 +1,10 @@
+.claude/skills/visual-style/references/gallery/saul-bass-cinematic.visual-style.md	.claude/skills/visual-style/references/gallery/saul-bass-cinematic.visual-style_zh.md
+.claude/skills/visual-style/references/spec.md	.claude/skills/visual-style/references/spec_zh.md
+.claude/skills/visual-style/references/templates/full.visual-style.md	.claude/skills/visual-style/references/templates/full.visual-style_zh.md
+.claude/skills/visual-style/references/templates/minimal.visual-style.md	.claude/skills/visual-style/references/templates/minimal.visual-style_zh.md
+.claude/skills/web-design-guidelines/SKILL.md	.claude/skills/web-design-guidelines/SKILL_zh.md
+.codex/prompts/README.md	.codex/prompts/README_zh.md
+.codex/prompts/animated-drawing.md	.codex/prompts/animated-drawing_zh.md
+.codex/prompts/backlot.md	.codex/prompts/backlot_zh.md
+.codex/prompts/ink-art.md	.codex/prompts/ink-art_zh.md
+.cursor/commands/animated-drawing.md	.cursor/commands/animated-drawing_zh.md

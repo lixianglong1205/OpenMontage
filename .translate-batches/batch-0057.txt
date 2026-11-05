@@ -1,0 +1,10 @@
+.agents/skills/website-to-video/references/beat-builder-guide.md	.agents/skills/website-to-video/references/beat-builder-guide_zh.md
+.agents/skills/website-to-video/references/capabilities.md	.agents/skills/website-to-video/references/capabilities_zh.md
+.agents/skills/website-to-video/references/step-0-capture.md	.agents/skills/website-to-video/references/step-0-capture_zh.md
+.agents/skills/website-to-video/references/step-1-design.md	.agents/skills/website-to-video/references/step-1-design_zh.md
+.agents/skills/website-to-video/references/step-2-brief.md	.agents/skills/website-to-video/references/step-2-brief_zh.md
+.agents/skills/website-to-video/references/step-3-storyboard.md	.agents/skills/website-to-video/references/step-3-storyboard_zh.md
+.agents/skills/website-to-video/references/step-4-vo.md	.agents/skills/website-to-video/references/step-4-vo_zh.md
+.agents/skills/website-to-video/references/step-5-build.md	.agents/skills/website-to-video/references/step-5-build_zh.md
+.agents/skills/website-to-video/references/step-6-validate.md	.agents/skills/website-to-video/references/step-6-validate_zh.md
+.claude/commands/animated-drawing.md	.claude/commands/animated-drawing_zh.md

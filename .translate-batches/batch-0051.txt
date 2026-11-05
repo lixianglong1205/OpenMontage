@@ -1,0 +1,10 @@
+.agents/skills/vercel-react-best-practices/rules/rendering-animate-svg-wrapper.md	.agents/skills/vercel-react-best-practices/rules/rendering-animate-svg-wrapper_zh.md
+.agents/skills/vercel-react-best-practices/rules/rendering-conditional-render.md	.agents/skills/vercel-react-best-practices/rules/rendering-conditional-render_zh.md
+.agents/skills/vercel-react-best-practices/rules/rendering-content-visibility.md	.agents/skills/vercel-react-best-practices/rules/rendering-content-visibility_zh.md
+.agents/skills/vercel-react-best-practices/rules/rendering-hoist-jsx.md	.agents/skills/vercel-react-best-practices/rules/rendering-hoist-jsx_zh.md
+.agents/skills/vercel-react-best-practices/rules/rendering-hydration-no-flicker.md	.agents/skills/vercel-react-best-practices/rules/rendering-hydration-no-flicker_zh.md
+.agents/skills/vercel-react-best-practices/rules/rendering-hydration-suppress-warning.md	.agents/skills/vercel-react-best-practices/rules/rendering-hydration-suppress-warning_zh.md
+.agents/skills/vercel-react-best-practices/rules/rendering-resource-hints.md	.agents/skills/vercel-react-best-practices/rules/rendering-resource-hints_zh.md
+.agents/skills/vercel-react-best-practices/rules/rendering-script-defer-async.md	.agents/skills/vercel-react-best-practices/rules/rendering-script-defer-async_zh.md
+.agents/skills/vercel-react-best-practices/rules/rendering-svg-precision.md	.agents/skills/vercel-react-best-practices/rules/rendering-svg-precision_zh.md
+.agents/skills/vercel-react-best-practices/rules/rendering-usetransition-loading.md	.agents/skills/vercel-react-best-practices/rules/rendering-usetransition-loading_zh.md

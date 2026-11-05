@@ -1,0 +1,10 @@
+skills/creative/image-provider-usage.md	skills/creative/image-provider-usage_zh.md
+skills/creative/ink-theater.md	skills/creative/ink-theater_zh.md
+skills/creative/lip-sync-usage.md	skills/creative/lip-sync-usage_zh.md
+skills/creative/long-form.md	skills/creative/long-form_zh.md
+skills/creative/manim-usage.md	skills/creative/manim-usage_zh.md
+skills/creative/music-gen-usage.md	skills/creative/music-gen-usage_zh.md
+skills/creative/prompting/grok-prompting.md	skills/creative/prompting/grok-prompting_zh.md
+skills/creative/prompting/hunyuan-prompting.md	skills/creative/prompting/hunyuan-prompting_zh.md
+skills/creative/prompting/ltx-prompting.md	skills/creative/prompting/ltx-prompting_zh.md
+skills/creative/prompting/seedance-prompting.md	skills/creative/prompting/seedance-prompting_zh.md

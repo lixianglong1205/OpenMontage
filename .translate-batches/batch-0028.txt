@@ -1,0 +1,10 @@
+.agents/skills/manim-composer/references/narrative-patterns.md	.agents/skills/manim-composer/references/narrative-patterns_zh.md
+.agents/skills/manim-composer/references/scene-examples.md	.agents/skills/manim-composer/references/scene-examples_zh.md
+.agents/skills/manim-composer/references/visual-techniques.md	.agents/skills/manim-composer/references/visual-techniques_zh.md
+.agents/skills/manim-composer/templates/scenes-template.md	.agents/skills/manim-composer/templates/scenes-template_zh.md
+.agents/skills/manimce-best-practices/SKILL.md	.agents/skills/manimce-best-practices/SKILL_zh.md
+.agents/skills/manimce-best-practices/rules/3d.md	.agents/skills/manimce-best-practices/rules/3d_zh.md
+.agents/skills/manimce-best-practices/rules/animation-groups.md	.agents/skills/manimce-best-practices/rules/animation-groups_zh.md
+.agents/skills/manimce-best-practices/rules/animations.md	.agents/skills/manimce-best-practices/rules/animations_zh.md
+.agents/skills/manimce-best-practices/rules/axes.md	.agents/skills/manimce-best-practices/rules/axes_zh.md
+.agents/skills/manimce-best-practices/rules/camera.md	.agents/skills/manimce-best-practices/rules/camera_zh.md
